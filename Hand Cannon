@@ -1,0 +1,57 @@
+title:Gix's Hand Cannon Wishlist
+
+# Kinetic
+	// Survivor's Epitaph (PvE)
+dimwishlist:item=310708513&perks=1482024992,3230963543,247725512,1774574192
+dimwishlist:item=310708513&perks=1774574192
+	// Judgment (PvE)
+dimwishlist:item=1476654960&perks=1926090094,3230963543,1195158366,1774574192
+dimwishlist:item=1476654960&perks=1774574192
+	// Fatebringer (PvE)
+dimwishlist:item=2171478765&perks=4090651448,3230963543,1774574192,11612903
+dimwishlist:item=2171478765&perks=1774574192
+	// Loud Lullaby (PvE)
+dimwishlist:item=3924212056&perks=1840239774,3177308360,1820235745,1774574192
+dimwishlist:item=3924212056&perks=1774574192
+	// Hawkmoon (PvE)
+dimwishlist:item=3856705927&perks=1840239774,1431678320,2846385770,3326204863
+dimwishlist:item=3856705927&perks=2846385770
+
+# Stasis
+	// Eyasluna (PvE)
+dimwishlist:item=235827225&perks=1926090094,3230963543,247725512,124408337
+dimwishlist:item=235827225&perks=124408337
+	// Vulpecula (PvE)
+dimwishlist:item=1622998472&perks=1482024992,3230963543,1168162263,124408337
+dimwishlist:item=1622998472&perks=124408337
+
+# Arc
+	// Crisis Inverted (PvE)
+dimwishlist:item=2888266564&perks=1482024992,1968497646,247725512,1048183818
+dimwishlist:item=2888266564&perks=1048183818
+
+# Solar
+	// Frontier's Cry (PvE)
+dimwishlist:item=1141547457&perks=1840239774,3230963543,1048183818,3673922083
+dimwishlist:item=1141547457&perks=1048183818
+
+# Void
+	// Bottom Dollar (PvE)
+dimwishlist:item=1046651176&perks=1840239774,3230963543,247725512,2848615171
+dimwishlist:item=1046651176&perks=247725512,2848615171
+dimwishlist:item=1046651176&perks=2848615171
+dimwishlist:item=1046651176&perks=247725512
+
+//notes:PvP
+	// Eyasluna (PvP)
+dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=2846385770,588594999
+dimwishlist:item=235827225&perks=588594999
+dimwishlist:item=235827225&perks=2846385770
+	// Austringer (PvP)
+dimwishlist:item=3055790362&perks=1840239774,1561002382,957782887,2846385770
+	// The Palindrome (PvP)
+dimwishlist:item=432476743&perks=1840239774,1561002382,1168162263,2846385770
+dimwishlist:item=432476743&perks=1168162263,2846385770
+dimwishlist:item=432476743&perks=2846385770
+dimwishlist:item=432476743&perks=1168162263
