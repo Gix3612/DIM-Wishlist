@@ -1,0 +1,44 @@
+title:Gix's Rocket Launcher Wishlist
+
+# Kinetic
+
+# Stasis
+	// Bump in the Night (PvE)
+dimwishlist:item=1959650777&perks=3525010810,2985827016,3977735242,2978966579
+	// Palmyra-B (PvE)
+dimwishlist:item=3489657138&perks=3525010810,2985827016,951095735,3927722942
+
+# Arc
+	// Subzero Salvo (PvE)
+dimwishlist:item=42351395&perks=3525010810,2985827016,2010801679,1275731761
+dimwishlist:item=42351395&perks=2010801679,1275731761
+dimwishlist:item=42351395&perks=1275731761
+dimwishlist:item=42351395&perks=2010801679
+	// Hoosegow (PvE)
+dimwishlist:item=3669616453&perks=3525010810,2985827016,3977735242,1275731761
+dimwishlist:item=3669616453&perks=3977735242,1275731761
+dimwishlist:item=3669616453&perks=1275731761
+dimwishlist:item=3669616453&perks=3977735242
+	// The Hothead (PvE)
+dimwishlist:item=4255171531&perks=3525010810,2985827016,3977735242,3194351027
+dimwishlist:item=4255171531&perks=3977735242,3194351027
+dimwishlist:item=4255171531&perks=3194351027
+dimwishlist:item=4255171531&perks=3977735242
+	// Sleepless (PvE)
+dimwishlist:item=3740842661&perks=3525010810,2985827016,3977735242,1546637391
+dimwishlist:item=3740842661&perks=3977735242,1546637391
+dimwishlist:item=3740842661&perks=1546637391
+dimwishlist:item=3740842661&perks=3977735242
+
+# Solar
+	// Ascendancy (PvE)
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027
+	// Hezen Vengeance (PvE)
+dimwishlist:item=4050645223&perks=3525010810,2985827016,3977735242,1275731761
+dimwishlist:item=4050645223&perks=3977735242,1275731761
+dimwishlist:item=4050645223&perks=1275731761
+dimwishlist:item=4050645223&perks=3977735242
+
+# Void
+	// Red Herring (PvE)
+dimwishlist:item=3175851496&perks=3525010810,2985827016,3977735242,4104185692
