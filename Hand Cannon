@@ -14,29 +14,22 @@ dimwishlist:item=3924212056&perks=1840239774,3177308360,1820235745,1774574192
 dimwishlist:item=2742838701&perks=1926090095,3230963543,3400784728,1774574192
 	// Seventh Seraph Officer Revolver (PvE)
 dimwishlist:item=3037520408&perks=1482024992,3230963543,4071163871,1774574192
-	// Osmosis
-dimwishlist:item=6&perks=1774574192
 	// Hawkmoon (PvE)
 dimwishlist:item=3856705927&perks=1840239774,1431678320,2846385770,3326204863
-dimwishlist:item=3856705927&perks=2846385770
 
 # Stasis
 	// Eyasluna (PvE)
 dimwishlist:item=235827225&perks=1926090094,3230963543,247725512,124408337
-dimwishlist:item=235827225&perks=124408337
 	// Vulpecula (PvE)
 dimwishlist:item=1622998472&perks=1482024992,3230963543,1168162263,124408337
-dimwishlist:item=1622998472&perks=124408337
 
 # Arc
 	// Crisis Inverted (PvE)
 dimwishlist:item=2888266564&perks=1482024992,1968497646,247725512,1048183818
-dimwishlist:item=2888266564&perks=1048183818
 
 # Solar
 	// Frontier's Cry (PvE)
 dimwishlist:item=1141547457&perks=1840239774,3230963543,1048183818,3673922083
-dimwishlist:item=1141547457&perks=1048183818
 
 # Void
 	// Bottom Dollar (PvE)
@@ -48,13 +41,16 @@ dimwishlist:item=1046651176&perks=247725512
 //notes:PvP
 	// Eyasluna (PvP)
 dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,588594999
-dimwishlist:item=235827225&perks=2846385770,588594999
-dimwishlist:item=235827225&perks=588594999
-dimwishlist:item=235827225&perks=2846385770
 	// Austringer (PvP)
 dimwishlist:item=3055790362&perks=1840239774,1561002382,957782887,2846385770
 	// The Palindrome (PvP)
 dimwishlist:item=432476743&perks=1840239774,1561002382,1168162263,2846385770
 dimwishlist:item=432476743&perks=1168162263,2846385770
-dimwishlist:item=432476743&perks=2846385770
 dimwishlist:item=432476743&perks=1168162263
+
+//notes:PvP
+dimwishlist:item=235827225&perks=2846385770,588594999
+	// Moving Target
+dimwishlist:item=235827225&perks=588594999
+	// Range Finder
+dimwishlist:item=6&perks=2846385770
