@@ -1,0 +1,40 @@
+title:Gix's Fusion Rifle Wishlist
+
+# Kinetic
+
+# Stasis
+	// Deliverance (PvE)
+dimwishlist:item=768621510&perks=1840239774,2680121939,3523296417,3078487919
+	// Burden of Guilt (PvE)
+dimwishlist:item=933455006&perks=1840239774,2680121939,3511092054,1546637391
+dimwishlist:item=933455006&perks=3511092054,1546637391
+dimwishlist:item=933455006&perks=1546637391
+dimwishlist:item=933455006&perks=3511092054
+	// Riptide (PvE)
+dimwishlist:item=2715240478&perks=1840239774,2969185026,671806388,2978966579
+dimwishlist:item=2715240478&perks=2978966579
+
+# Arc
+	// PLUG ONE.1 (PvE)
+dimwishlist:item=1289000550&perks=1840239774,1687452232,671806388,1427256713
+dimwishlist:item=1289000550&perks=671806388,1427256713
+dimwishlist:item=1289000550&perks=1427256713
+dimwishlist:item=1289000550&perks=671806388
+
+# Solar
+	// Trinary System (PvE)
+dimwishlist:item=3258665412&perks=1840239774,2680121939,1866048759,3523296417
+dimwishlist:item=3258665412&perks=1866048759,3523296417
+dimwishlist:item=3258665412&perks=3523296417
+dimwishlist:item=3258665412&perks=1866048759
+
+# Void
+	// Likely Suspect (PvE)
+dimwishlist:item=1994645182&perks=1840239774,2680121939,1583705720,2610012052
+	// The Epicurean (PvE)
+dimwishlist:item=2263839058&perks=1840239774,2680121939,2621346526,1600092898
+	// Snorri FR5 (PvE)
+dimwishlist:item=4114929480&perks=1840239774,1687452232,671806388,1427256713
+dimwishlist:item=4114929480&perks=671806388,1427256713
+dimwishlist:item=4114929480&perks=1427256713
+dimwishlist:item=4114929480&perks=671806388
