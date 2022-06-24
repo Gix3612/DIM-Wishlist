@@ -1,0 +1,41 @@
+title:Gix's Pulse Rifle Wishlist
+
+# Kinetic
+	// Piece of Mind (PvE)
+dimwishlist:item=2097055732&perks=1482024992,3230963543,1583705720,11612903
+
+# Stasis
+	// Syncopation-53 (PvE)
+dimwishlist:item=2856514843&perks=1482024992,3230963543,1168162263,124408337
+
+# Arc
+	// Insidious (PvE)
+dimwishlist:item=3428521585&perks=1482024992,3230963543,2848615171,1048183818
+
+# Solar
+	// Ogma PR6 (PvE)
+dimwishlist:item=2342054803&perks=1482024992,3230963543,1048183818,2209918983
+dimwishlist:item=2342054803&perks=1048183818
+
+# Void
+	// Premonition (PvE)
+dimwishlist:item=208088207&perks=1482024992,3230963543,2779035018,2213355989
+dimwishlist:item=208088207&perks=2779035018,2213355989
+dimwishlist:item=208088207&perks=2213355989
+dimwishlist:item=208088207&perks=2779035018
+
+//notes:PvP
+	// Syncopation-53 (PvP)
+dimwishlist:item=2856514843&perks=4090651448,1561002382,588594999,2846385770
+	// Sacred Provenance (PvP)
+dimwishlist:item=2408405461&perks=1840239774,1561002382,2846385770,460017080
+dimwishlist:item=2408405461&perks=2846385770,460017080
+dimwishlist:item=2408405461&perks=460017080
+dimwishlist:item=2408405461&perks=2846385770
+	// BxR-55 Battler (PvP)
+dimwishlist:item=2708806099&perks=1482024992,3142289711,957782887,2846385770
+dimwishlist:item=2708806099&perks=957782887,2846385770
+dimwishlist:item=2708806099&perks=2846385770
+dimwishlist:item=2708806099&perks=957782887
+	// Insidious (PvP)
+dimwishlist:item=3428521585&perks=1840239774,3230963543,247725512,1546637391
