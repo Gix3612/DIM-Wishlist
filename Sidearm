@@ -1,0 +1,37 @@
+title:Gix's Sidearm Wishlist
+
+# Kinetic
+	// Empirical Evidence (PvE)
+dimwishlist:item=2607304614&perks=1482024992,1885400500,1195158366,3673922083
+
+# Stasis
+	// Peacebond (PvE)
+dimwishlist:item=829330711&perks=1482024992,3230963543,1820235745,124408337
+dimwishlist:item=829330711&perks=124408337
+
+# Arc
+	// Forgiveness (PvE)
+dimwishlist:item=2345794502&perks=1482024992,3230963543,3523296417,11612903
+dimwishlist:item=2345794502&perks=3523296417,11612903
+dimwishlist:item=2345794502&perks=11612903
+dimwishlist:item=2345794502&perks=3523296417
+
+# Solar
+	// Drang (Baroque) (PvE)
+dimwishlist:item=502356570&perks=1482024992,3230963543,706527188,4293542123
+
+# Void
+	// A Swift Verdict (PvE)
+dimwishlist:item=1626503676&perks=445755706,3230963543,2450788523,1015611457
+dimwishlist:item=1626503676&perks=2450788523,1015611457
+dimwishlist:item=1626503676&perks=1015611457
+dimwishlist:item=1626503676&perks=2450788523
+
+//notes:PvP
+	// Drang (Baroque) (PvP)
+dimwishlist:item=502356570&perks=1482024992,3142289711,588594999,2387244414
+	// A Swift Verdict (PvP)
+dimwishlist:item=1626503676&perks=445755706,1561002382,2450788523,2846385770
+dimwishlist:item=1626503676&perks=2450788523,2846385770
+dimwishlist:item=1626503676&perks=2846385770
+dimwishlist:item=1626503676&perks=2450788523
