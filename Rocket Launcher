@@ -36,7 +36,7 @@ dimwishlist:item=4050645223&perks=3525010810,2985827016,3977735242,1275731761
 dimwishlist:item=3175851496&perks=3525010810,2985827016,3977735242,4104185692
 
 dimwishlist:item=13&perks=3977735242,1275731761
-	// Cluster Bomb
-dimwishlist:item=13&perks=1275731761
 	// Tracking Module
 dimwishlist:item=13&perks=3977735242
+	// Cluster Bomb
+dimwishlist:item=13&perks=1275731761
