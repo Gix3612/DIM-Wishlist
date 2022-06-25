@@ -34,6 +34,12 @@ dimwishlist:item=4019668921&perks=1482024992,3230963543,1168162263,4293542123
 # Void
 	// Pointed Inquiry (PvE)
 dimwishlist:item=297296830&perks=1840239774,3230963543,1583705720,1048183818
+	// Aisha's Embrace (PvE)
+dimwishlist:item=2638190703&perks=1482024992,3230963543,1583705720,2458213969
+dimwishlist:item=2638190703&perks=1583705720,2458213969
+dimwishlist:item=2638190703&perks=1583705720
+dimwishlist:item=2638190703&perks=2458213969
+
 
 //notes:PvP
 	// Perses-D (PvP)
