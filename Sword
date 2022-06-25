@@ -24,18 +24,22 @@ dimwishlist:item=1796949035&perks=436053704,3625355092,2590710093,2396489472
 dimwishlist:item=2782325300&perks=436053704,269888150,2590710093,354401740
 dimwishlist:item=2782325300&perks=2590710093,354401740
 dimwishlist:item=2782325300&perks=354401740
+	// Crown-Splitter (PvE)
+dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
 	// The Other Half (PvE)
 dimwishlist:item=3257091167&perks=3666208348,3625355092,2077819806,1546637391
 dimwishlist:item=3257091167&perks=2077819806,1546637391
 
 dimwishlist:item=54&perks=2590710093,2396489472
+dimwishlist:item=54&perks=1749209109,2396489472
+dimwishlist:item=54&perks=2590710093,1546637391
 dimwishlist:item=54&perks=1749209109,1546637391
 	// Chain Reaction
 dimwishlist:item=54&perks=2396489472
-	// Eager Edge
-dimwishlist:item=54&perks=2077819806
 	// Vorpal Weapon
 dimwishlist:item=54&perks=1546637391
+	// Eager Edge
+dimwishlist:item=54&perks=2077819806
 
 //notes:PvP
 	// Half-Truths (PvP)
