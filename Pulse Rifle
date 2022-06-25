@@ -37,11 +37,11 @@ dimwishlist:item=2708806099&perks=1482024992,3142289711,957782887,2846385770
 dimwishlist:item=3428521585&perks=1840239774,3142289711,247725512,1546637391
 
 //notes:PvP
-dimwishlist:item=2708806099&perks=957782887,2846385770
-dimwishlist:item=2408405461&perks=2846385770,460017080
+dimwishlist:item=7&perks=957782887,2846385770
+dimwishlist:item=7&perks=2846385770,460017080
 	// Rangefinder
-dimwishlist:item=2408405461&perks=2846385770
+dimwishlist:item=7&perks=2846385770
 	// Snapshot Sights
-dimwishlist:item=2708806099&perks=957782887
+dimwishlist:item=7&perks=957782887
 	// Headseeker
-dimwishlist:item=2408405461&perks=460017080
+dimwishlist:item=7&perks=460017080
