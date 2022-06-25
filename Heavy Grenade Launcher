@@ -35,10 +35,8 @@ dimwishlist:item=153950757&perks=2396489472
 //notes:PvP
 	// Typhon GL5 (PvP)
 dimwishlist:item=3568377122&perks=3525010810,3373736292,509074078,3194351027
+dimwishlist:item=3568377122&perks=3373736292,3194351027
 
 //notes:PvP
-dimwishlist:item=153950757&perks=3373736292,3194351027
 	// Sticky Grenades
 dimwishlist:item=153950757&perks=3373736292
-	// Explosive Light
-dimwishlist:item=153950757&perks=3194351027
