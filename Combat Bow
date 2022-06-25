@@ -2,8 +2,10 @@ title:Gix's Combat Bow Wishlist
 // hash: 3317538576
 
 # Kinetic
+	// Whispering Slab (PvE)
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,3350417888
 	// Fel Taradiddle (PvE)
-dimwishlist:item=1399109800&perks=852209214,16392701,201365942,3365897133
+dimwishlist:item=1399109800&perks=852209214,16392701,201365942,2652708987
 
 # Stasis
 	// Lunulata-4b (PvE)
@@ -12,28 +14,42 @@ dimwishlist:item=2513965917&perks=852209214,16392701,3700496672,124408337
 # Arc
 	// Arsenic Bite-4b (PvE)
 dimwishlist:item=720351795&perks=852209214,16392701,2848615171,201365942
-dimwishlist:item=720351795&perks=2848615171,201365942
-dimwishlist:item=720351795&perks=2848615171
 
 # Solar
 	// Strident Whistle (PvE)
 dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,4293542123
 
 # Void
+	// Imperial Needle (PvE)
+dimwishlist:item=3460122497&perks=852209214,16392701,201365942,3350417888
 	// Under Your Skin (PvE)
 dimwishlist:item=232928045&perks=2801223209,16392701,201365942,1048183818
 
+dimwishlist:item=3317538576&perks=2848615171,201365942
+dimwishlist:item=3317538576&perks=3350417888,201365942
+	// Dragonfly
+dimwishlist:item=3317538576&perks=2848615171
+	// Sympathetic Arsenal
+dimwishlist:item=3317538576&perks=3350417888
 	// Archer's Tempo
 dimwishlist:item=3317538576&perks=201365942
 
 //notes:PvP
+	// Accrued Redemption (PvP)
+dimwishlist:item=4095896073&perks=2801223209,16392701,201365942,3365897133
+	// Fel Taradiddle (PvP)
+dimwishlist:item=1399109800&perks=852209214,16392701,201365942,3365897133
 	// Biting Winds (PvP)
 dimwishlist:item=1621657423&perks=2801223209,16392701,588594999,3365897133
-dimwishlist:item=1621657423&perks=588594999,3365897133
-dimwishlist:item=1621657423&perks=588594999
 	// Under Your Skin (PvP)
 dimwishlist:item=232928045&perks=2801223209,16392701,1866048759,3365897133
 
 //notes:PvP
+dimwishlist:item=3317538576&perks=1866048759,3365897133
+dimwishlist:item=3317538576&perks=588594999,3365897133
+	// Hip-fire Grip
+dimwishlist:item=3317538576&perks=1866048759
+	// Moving Target
+dimwishlist:item=3317538576&perks=588594999
 	// Explosive Head
 dimwishlist:item=3317538576&perks=3365897133
