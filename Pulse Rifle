@@ -23,8 +23,8 @@ dimwishlist:item=2342054803&perks=1482024992,3230963543,1048183818,2209918983
 	// Premonition (PvE)
 dimwishlist:item=208088207&perks=1482024992,3230963543,2779035018,2213355989
 dimwishlist:item=208088207&perks=2779035018,2213355989
-dimwishlist:item=208088207&perks=2213355989
 dimwishlist:item=208088207&perks=2779035018
+dimwishlist:item=208088207&perks=2213355989
 
 //notes:PvP
 	// Syncopation-53 (PvP)
@@ -39,9 +39,9 @@ dimwishlist:item=3428521585&perks=1840239774,3142289711,247725512,1546637391
 //notes:PvP
 dimwishlist:item=7&perks=957782887,2846385770
 dimwishlist:item=7&perks=2846385770,460017080
-	// Rangefinder
-dimwishlist:item=7&perks=2846385770
 	// Snapshot Sights
 dimwishlist:item=7&perks=957782887
+	// Rangefinder
+dimwishlist:item=7&perks=2846385770
 	// Headseeker
 dimwishlist:item=7&perks=460017080
