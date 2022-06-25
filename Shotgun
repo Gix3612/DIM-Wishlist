@@ -43,3 +43,25 @@ dimwishlist:item=11&perks=25606670
 dimwishlist:item=11&perks=2360754333
 	// One-Two Punch
 dimwishlist:item=11&perks=2679249093
+
+//notes:PvP
+	// Wastelander M5 (PvP)
+dimwishlist:item=1679868061&perks=466087222,791862061,3161816588,47981717
+	// Fractethyst (PvP)
+dimwishlist:item=3184681056&perks=466087222,791862061,3161816588,47981717
+	// Without Remorse (PvP)
+dimwishlist:item=1478986057&perks=466087222,791862061,1866048759,2451262963
+	// Found Verdict (PvP)
+dimwishlist:item=3197270240&perks=466087222,791862061,3161816588,47981717
+
+//notes:PvP
+dimwishlist:item=11&perks=3161816588,47981717
+dimwishlist:item=11&perks=1866048759,2451262963
+	// Hip-fire Grip
+dimwishlist:item=11&perks=1866048759
+	// Fragile Focus
+dimwishlist:item=11&perks=2451262963
+	// Slideshot
+dimwishlist:item=11&perks=3161816588
+	// Opening Shot
+dimwishlist:item=11&perks=47981717
