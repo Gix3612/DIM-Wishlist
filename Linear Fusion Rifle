@@ -6,14 +6,10 @@ title:Gix's Linear Fusion Rifle Wishlist
 # Stasis
 	// Reed's Regret (PvE)
 dimwishlist:item=1399243961&perks=1840239774,1483536627,3300816228,124408337
-dimwishlist:item=1399243961&perks=124408337
 
 # Arc
 	// Stormchaser (PvE)
 dimwishlist:item=3652506829&perks=1840239774,2680121939,247725512,1771339417
-dimwishlist:item=3652506829&perks=247725512,1771339417
-dimwishlist:item=3652506829&perks=1771339417
-dimwishlist:item=3652506829&perks=247725512
 
 # Solar
 	// Cataclysmic (PvE)
@@ -22,6 +18,15 @@ dimwishlist:item=999767358&perks=1840239774,2680121939,1354429876,3078487919
 # Void
 	// Threaded Needle (PvE)
 dimwishlist:item=3075224551&perks=1840239774,2680121939,247725512,1546637391
-dimwishlist:item=3075224551&perks=247725512,1546637391
-dimwishlist:item=3075224551&perks=1546637391
-dimwishlist:item=3075224551&perks=247725512
+
+dimwishlist:item=1504945536&perks=247725512,1771339417
+dimwishlist:item=1504945536&perks=247725512,3078487919
+dimwishlist:item=1504945536&perks=247725512,1546637391
+	// Rapid Hit
+dimwishlist:item=1504945536&perks=247725512
+	// Firing Line
+dimwishlist:item=1504945536&perks=1771339417
+	// Bait and Switch
+dimwishlist:item=1504945536&perks=3078487919
+	//Vorpal Weapon
+dimwishlist:item=1504945536&perks=1546637391
