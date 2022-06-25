@@ -4,7 +4,6 @@ title:Gix's Submachine Gun Wishlist
 # Kinetic
 	// Escape Velocity (PvE)
 dimwishlist:item=1786797708&perks=663495154,3177308360,1631667848,1774574192
-dimwishlist:item=1786797708&perks=1774574192
 	// Osteo Striga (PvE)
 dimwishlist:item=46524085&perks=1840239774,3142289711,4015745376,1067908860
 
@@ -16,7 +15,6 @@ dimwishlist:item=1526296434&perks=1482024992,3230963543,1631667848,124408337
 	// Seventh Seraph VY-7 (PvE)
 dimwishlist:item=766323545&perks=1840239774,3230963543,2010801679,2848615171
 dimwishlist:item=766323545&perks=2010801679,2848615171
-dimwishlist:item=766323545&perks=2848615171
 dimwishlist:item=766323545&perks=2010801679
 	// IKELOS_SMG_v1.0.2 (PvE)
 dimwishlist:item=2222560548&perks=1482024992,3177308360,1820235745,1890422124
@@ -26,8 +24,10 @@ dimwishlist:item=2222560548&perks=1820235745
 	// Stochastic Variable (PvE)
 dimwishlist:item=2272470786&perks=1482024992,830282363,2779035018,2848615171
 dimwishlist:item=2272470786&perks=2779035018,2848615171
-dimwishlist:item=2272470786&perks=2848615171
 dimwishlist:item=2272470786&perks=2779035018
+
+	// Dragonfly
+dimwishlist:item=3954685534&perks=2848615171
 
 # Solar
 	// CALUS Mini-Tool (PvE)
@@ -39,6 +39,9 @@ dimwishlist:item=3000847393&perks=1482024992,3230963543,3523296417,2610012052
 dimwishlist:item=3000847393&perks=3523296417,2610012052
 dimwishlist:item=3000847393&perks=2610012052
 dimwishlist:item=3000847393&perks=3523296417
+
+	// Grave Robber
+dimwishlist:item=3954685534&perks=1631667848
 
 //notes:PvP
 	// Submission (PvP)
