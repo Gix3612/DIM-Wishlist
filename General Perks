@@ -1,16 +1,25 @@
 title:Gix's General Perks Wishlist
 // hash: -69420
 
-	// Headstone
-dimwishlist:item=-69420&perks=124408337
-	// Chill Clip
-dimwishlist:item=-69420&perks=2978966579
-	// Cold Steel
-dimwishlist:item=-69420&perks=3650930298
+// Utility
 	// Demolitionist, Osmosis
 dimwishlist:item=-69420&perks=3523296417,1774574192
 dimwishlist:item=-69420&perks=1774574192
 	// Adaptive Munitions
 dimwishlist:item=-69420&perks=1048183818
+
+// Subclass Synergy
+	// Headstone
+dimwishlist:item=-69420&perks=124408337
+	// Compulsive Reloader, Chill Clip
+dimwishlist:item=-69420&perks=671806388,2978966579
+dimwishlist:item=-69420&perks=2978966579
+	// Cold Steel
+dimwishlist:item=-69420&perks=3650930298
 	// Incandescent
 dimwishlist:item=-69420&perks=4293542123
+
+// Synergy Combos
+	// Wellspring/Demolitionist, Golden Tricorn
+dimwishlist:item=-69420&perks=3592538738,2610012052
+dimwishlist:item=-69420&perks=3523296417,2610012052
