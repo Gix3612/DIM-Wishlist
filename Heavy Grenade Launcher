@@ -6,6 +6,7 @@ title:Gix's Heavy Grenade Launcher Wishlist
 # Stasis
 	// Typhon GL5 (PvE)
 dimwishlist:item=3568377122&perks=3809316345,2985827016,951095735,2978966579
+dimwishlist:item=3568377122&perks=951095735,2978966579
 
 # Arc
 	// Tarnation (PvE)[Crafted]
@@ -14,29 +15,25 @@ dimwishlist:item=2721157927&perks=3525010810,2985827016,2284787283,2396489472
 # Solar
 	// Canis Major (PvE)
 dimwishlist:item=2066434718&perks=3525010810,2985827016,951095735,2396489472
+dimwishlist:item=2066434718&perks=951095735,2396489472
+dimwishlist:item=2066434718&perks=951095735
+dimwishlist:item=2066434718&perks=2396489472
 	// Love and Death (PvE)
 dimwishlist:item=3690523502&perks=3525010810,3301904089,1631667848,2396489472
+dimwishlist:item=3690523502&perks=1631667848,2396489472
+dimwishlist:item=3690523502&perks=1631667848
+dimwishlist:item=3690523502&perks=2396489472
 
 # Void
 	// Memory Interdict (PvE)
 dimwishlist:item=3165547384&perks=3525010810,2985827016,951095735,2396489472
+dimwishlist:item=3165547384&perks=951095735,2396489472
+dimwishlist:item=3165547384&perks=2396489472
 	// Crowd Pleaser (PvE)
 dimwishlist:item=3565520715&perks=3525010810,3301904089,1631667848,2396489472
-
-dimwishlist:item=153950757&perks=951095735,2396489472
-dimwishlist:item=153950757&perks=1631667848,2396489472
-	// Impulse Amplifier
-dimwishlist:item=153950757&perks=951095735
-	// Grave Robber
-dimwishlist:item=153950757&perks=1631667848
-	// Chain Reaction
-dimwishlist:item=153950757&perks=2396489472
+dimwishlist:item=3565520715&perks=1631667848,2396489472
 
 //notes:PvP
 	// Typhon GL5 (PvP)
 dimwishlist:item=3568377122&perks=3525010810,3373736292,509074078,3194351027
-dimwishlist:item=3568377122&perks=3373736292,3194351027
-
-//notes:PvP
-	// Sticky Grenades
-dimwishlist:item=153950757&perks=3373736292
+dimwishlist:item=3568377122&perks=3373736292,509074078,3194351027
