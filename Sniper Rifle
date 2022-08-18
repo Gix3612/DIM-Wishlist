@@ -17,11 +17,11 @@ dimwishlist:item=1645386487&perks=1482024992,106909392,3300816228,1771339417
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1774574192
 
 # Stasis
-	// Thoughtless (PvE)
+	// Thoughtless (PvE)[Crafted]
 dimwishlist:item=4067556514&perks=1840239774,106909392,3643424744,124408337
 
 # Arc
-	// Adored (PvE)
+	// Adored (PvE)[Playlist]
 dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391
 	// Occluded Finality (PvE)
 dimwishlist:item=852551895&perks=1840239774,3230963543,247725512,1771339417
@@ -29,7 +29,7 @@ dimwishlist:item=852551895&perks=247725512,1771339417
 dimwishlist:item=852551895&perks=247725512
 
 # Solar
-	// Beloved (PvE)
+	// Beloved (PvE)[Crafted]
 dimwishlist:item=3107853529&perks=1482024992,3230963543,1354429876,4293542123
 	// The Long Walk (PvE)
 dimwishlist:item=3326850591&perks=1840239774,3230963543,3643424744,1771339417
@@ -60,7 +60,7 @@ dimwishlist:item=3743729616&perks=1840239774,3142289711,1645158859,47981717
 dimwishlist:item=3653573172&perks=1840239774,3142289711,588594999,47981717
 	// Eye of Sol (PvP)
 dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999,47981717
-	// Father's Sins (PvP)
+	// Father's Sins (PvP)[Crafted]
 dimwishlist:item=3865728990&perks=1840239774,3142289711,1645158859,47981717
 
 //notes:PvP
