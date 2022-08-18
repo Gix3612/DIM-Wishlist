@@ -2,7 +2,7 @@ title:Gix's Auto Rifle Wishlist
 // hash: 5
 
 # Kinetic
-	// Firefright (PvE)
+	// Firefright (PvE)[Crafted]
 dimwishlist:item=2778013407&perks=1482024992,3230963543,4071163871,1774574192
 	// The Last Breath (PvE)
 dimwishlist:item=507038823&perks=1482024992,679225683,3523296417,1774574192
@@ -11,12 +11,11 @@ dimwishlist:item=507038823&perks=1482024992,679225683,3523296417,1774574192
 	// Herod-C (PvE)
 dimwishlist:item=1788603939&perks=1482024992,3230963543,1583705720,124408337
 	// Krait (PvE)
-dimwishlist:item=2852052802&perks=1482024992,3230963543,1583705720,124408337
+dimwishlist:item=2852052802&perks=1482024992,679225683,1583705720,124408337
 
 # Arc
-	// Come to Pass (PvE)
+	// Come to Pass (PvE)[Crafted]
 dimwishlist:item=927567426&perks=1840239774,3177308360,1583705720,1048183818
-dimwishlist:item=927567426&perks=1840239774,3230963543,1583705720,1048183818
 
 # Solar
 	// Arctic Haze (PvE)
@@ -26,11 +25,15 @@ dimwishlist:item=20935540&perks=1820235745
 dimwishlist:item=20935540&perks=2848615171
 	// The Summoner (PvE)
 dimwishlist:item=1907698332&perks=1482024992,3230963543,1428297954,2458213969
+dimwishlist:item=1907698332&perks=1428297954,2458213969
+dimwishlist:item=1907698332&perks=1428297954
+dimwishlist:item=1907698332&perks=2458213969
 
 # Void
 	// Age-Old Bond (PvE)
 dimwishlist:item=601592879&perks=1840239774,1885400500,1890422124,2848615171
 dimwishlist:item=601592879&perks=1890422124,2848615171
+dimwishlist:item=601592879&perks=1890422124
 dimwishlist:item=601592879&perks=2848615171
 	// Reckless Oracle (PvE)
 dimwishlist:item=3385326721&perks=1482024992,679225683,1168162263,4082225868
@@ -39,23 +42,15 @@ dimwishlist:item=3385326721&perks=1168162263
 dimwishlist:item=3385326721&perks=4082225868
 	// Gnawing Hunger (PvE)
 dimwishlist:item=821154603&perks=1482024992,3230963543,1890422124,2458213969
-
-dimwishlist:item=5&perks=1428297954,2458213969
-dimwishlist:item=5&perks=1890422124,2458213969
-	// Stats for All
-dimwishlist:item=5&perks=1583705720
-	// Perpetual Motion
-dimwishlist:item=5&perks=1428297954
-	// Tap the Trigger
-dimwishlist:item=5&perks=1890422124
-	// Multikill Clip
-dimwishlist:item=5&perks=2458213969
+dimwishlist:item=821154603&perks=1890422124,2458213969
+// dimwishlist:item=821154603&perks=1890422124
+// dimwishlist:item=821154603&perks=2458213969
 
 //notes:PvP
-	// Sweet Sorrow (PvP)
+	// Sweet Sorrow (PvP)[Crafted]
 dimwishlist:item=1248372789&perks=1482024992,3142289711,1428297954,1890422124
 	// Krait (PvP)
-dimwishlist:item=2852052802&perks=1482024992,1561002382,3643424744,588594999
+dimwishlist:item=2852052802&perks=4090651448,1561002382,3643424744,588594999
 dimwishlist:item=2852052802&perks=3643424744,588594999
-dimwishlist:item=2852052802&perks=3643424744
-dimwishlist:item=2852052802&perks=588594999
+// dimwishlist:item=2852052802&perks=3643424744
+// dimwishlist:item=2852052802&perks=588594999
