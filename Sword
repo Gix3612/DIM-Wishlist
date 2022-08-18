@@ -16,7 +16,7 @@ dimwishlist:item=2139640995&perks=436053704,3625355092,2590710093,2396489472
 # Solar
 	// Sola's Scar (PvE)
 dimwishlist:item=1313528549&perks=436053704,3625355092,2590710093,2396489472
-	// Eternity's Edge (PvE)
+	// Eternity's Edge (PvE)[Warlock]
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3016987351
 dimwishlist:item=2782325301&perks=1749209109,3016987351
 dimwishlist:item=2782325301&perks=3016987351
@@ -24,11 +24,11 @@ dimwishlist:item=2782325301&perks=3016987351
 # Void
 	// Razor's Edge (PvE)
 dimwishlist:item=1796949035&perks=436053704,3625355092,2590710093,2396489472
-	// Quickfang (PvE)
+	// Quickfang (PvE)[Hunter]
 dimwishlist:item=2782325300&perks=436053704,269888150,2590710093,354401740
 dimwishlist:item=2782325300&perks=2590710093,354401740
 dimwishlist:item=2782325300&perks=354401740
-	// Crown-Splitter (PvE)
+	// Crown-Splitter (PvE)[Titan]
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
 	// The Other Half (PvE)
 dimwishlist:item=3257091167&perks=3666208348,3625355092,2077819806,1546637391
