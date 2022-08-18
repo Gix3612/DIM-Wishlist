@@ -3,21 +3,29 @@ title:Gix's Shotgun Wishlist
 
 # Kinetic
 	// Blasphemer (PvE)
-dimwishlist:item=2782847179&perks=1482024992,679225683,25606670,1774574192
+dimwishlist:item=2782847179&perks=1467527085,679225683,4071163871,1774574192
+dimwishlist:item=2782847179&perks=1467527085,1774574192
 	// Fortissimo-11 (PvE)
 dimwishlist:item=2821430069&perks=1467527085,791862061,3523296417,1774574192
+dimwishlist:item=2821430069&perks=1467527085,3523296417,1774574192
+dimwishlist:item=2821430069&perks=1467527085,1774574192
 	// Ragnhild-D (PvE)[Crafted]
 dimwishlist:item=4225322581&perks=466087222,791862061,1820235745,2679249093
 
 # Stasis
 	// Fractethyst (PvE)
 dimwishlist:item=3184681056&perks=466087222,106909392,25606670,2360754333
+dimwishlist:item=3184681056&perks=25606670,2360754333
+dimwishlist:item=3184681056&perks=25606670
+dimwishlist:item=3184681056&perks=2360754333
 
 # Arc
 	// Xenoclast IV (PvE)
-dimwishlist:item=2891672170&perks=466087222,791862061,1631667848,2360754333
+dimwishlist:item=2891672170&perks=466087222,3142289711,1631667848,2360754333
+dimwishlist:item=2891672170&perks=3142289711,1631667848,2360754333
 	// A Sudden Death (PvE)
 dimwishlist:item=2855157553&perks=466087222,3142289711,1631667848,2679249093
+dimwishlist:item=2855157553&perks=3142289711,1631667848,2679249093
 
 # Solar
 	// Without Remorse (PvE)[Crafted]
@@ -26,44 +34,19 @@ dimwishlist:item=1478986057&perks=466087222,679225683,1583705720,4293542123
 # Void
 	// The Comedian (PvE)
 dimwishlist:item=1028582252&perks=466087222,791862061,1820235745,2360754333
+dimwishlist:item=1028582252&perks=466087222,1820235745,2360754333
 	// The Comedian (Adept) (PvE)
 dimwishlist:item=2443900757&perks=466087222,791862061,1820235745,2360754333
-
-dimwishlist:item=11&perks=1631667848,2360754333
-dimwishlist:item=11&perks=1631667848,2679249093
-dimwishlist:item=11&perks=1820235745,2360754333
-dimwishlist:item=11&perks=1820235745,2679249093
-dimwishlist:item=11&perks=25606670,2360754333
-dimwishlist:item=11&perks=25606670,2679249093
-	// Grave Robber
-dimwishlist:item=11&perks=1631667848
-	// Subsistence
-dimwishlist:item=11&perks=1820235745
-	// Dual Loader
-dimwishlist:item=11&perks=25606670
-	// Trench Barrel
-dimwishlist:item=11&perks=2360754333
-	// One-Two Punch
-dimwishlist:item=11&perks=2679249093
+dimwishlist:item=2443900757&perks=466087222,1820235745,2360754333
 
 //notes:PvP
 	// Wastelander M5 (PvP)
 dimwishlist:item=1679868061&perks=466087222,791862061,3161816588,47981717
+dimwishlist:item=1679868061&perks=3161816588,47981717
 	// Fractethyst (PvP)
 dimwishlist:item=3184681056&perks=466087222,791862061,3161816588,47981717
+dimwishlist:item=3184681056&perks=3161816588,47981717
 	// Without Remorse (PvP)[Crafted]
 dimwishlist:item=1478986057&perks=466087222,791862061,1866048759,2451262963
-	// Found Verdict (PvP)
-dimwishlist:item=3197270240&perks=466087222,791862061,3161816588,47981717
-
-//notes:PvP
-dimwishlist:item=11&perks=3161816588,47981717
-dimwishlist:item=11&perks=1866048759,2451262963
-	// Hip-fire Grip
-dimwishlist:item=11&perks=1866048759
-	// Fragile Focus
-dimwishlist:item=11&perks=2451262963
-	// Slideshot
-dimwishlist:item=11&perks=3161816588
-	// Opening Shot
-dimwishlist:item=11&perks=47981717
+	// Felwinter's Lie (PvP)[Playlist]
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717,3436462433,1546637391
