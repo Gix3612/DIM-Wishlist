@@ -1,20 +1,20 @@
 # Titan
   # Helmet
     // AN INSURMOUNTABLE SKULLFORT
-dimwishlist:item=3216110440&perks=0#notes:[Arc][Melee]
+dimwishlist:item=3216110440#notes:[Arc][Melee]
     // MASK OF THE QUIET ONE
-dimwishlist:item=3883866764&perks=0
+dimwishlist:item=3883866764&perks=
     // KHEPRI'S HORN
-dimwishlist:item=2384488862&perks=0#notes:[Solar][Class]
+dimwishlist:item=2384488862&perks=#notes:[Solar][Class]
     // HELM OF SAINT-14
-dimwishlist:item=106575079&perks=0#notes:[Void][Super]
+dimwishlist:item=106575079&perks=#notes:[Void][Super]
     // ETERNAL WARRIOR
-dimwishlist:item=2808156426&perks=0#notes:[Arc][Super]
+dimwishlist:item=2808156426&perks=#notes:[Arc][Super]
     // ONE-EYED MASK
-dimwishlist:item=2578771006&perks=0
+dimwishlist:item=2578771006&perks=
     // PRECIOUS SCARS
-dimwishlist:item=3974038291&perks=0#notes:[Weapon][Matching]
+dimwishlist:item=3974038291&perks=#notes:[Weapon][Matching]
     // LORELEY SPLENDOR HELM
-dimwishlist:item=3316517958&perks=0#notes:[Solar][Class]
+dimwishlist:item=3316517958&perks=#notes:[Solar][Class]
 
   # Gauntlets
