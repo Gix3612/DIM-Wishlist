@@ -3,7 +3,7 @@
     // AN INSURMOUNTABLE SKULLFORT
 dimwishlist:item=3216110440#notes:[Arc][Melee]
     // MASK OF THE QUIET ONE
-dimwishlist:item=3883866764
+dimwishlist:item=3883866764#notes:
     // KHEPRI'S HORN
 dimwishlist:item=2384488862#notes:[Solar][Class]
     // HELM OF SAINT-14
@@ -11,7 +11,7 @@ dimwishlist:item=106575079#notes:[Void][Super]
     // ETERNAL WARRIOR
 dimwishlist:item=2808156426#notes:[Arc][Super]
     // ONE-EYED MASK
-dimwishlist:item=2578771006
+dimwishlist:item=2578771006#notes:
     // PRECIOUS SCARS
 dimwishlist:item=3974038291#notes:[Weapon][Matching]
     // LORELEY SPLENDOR HELM
@@ -19,4 +19,28 @@ dimwishlist:item=3316517958#notes:[Solar][Class]
 
   # Gauntlets
     // ACD/0 FEEDBACK FENCE
-dimwishlist:item=2563444729#notes:Test
+dimwishlist:item=2563444729#notes:[Melee]
+    // DOOM FANG PAULDRON
+dimwishlist:item=241462141#notes:[Void][Super]
+    // SYNTHOCEPS
+dimwishlist:item=241462142#notes:[Melee][Super]
+    // AEON SAFE
+dimwishlist:item=1654461647#notes:[Weapon][Class]
+    // ASHEN WAKE
+dimwishlist:item=1734844650#notes:[Solar][Grenade]
+    // WORMGOD CARESS
+dimwishlist:item=1734844651#notes:[Melee]
+    // URSA FURIOSA
+dimwishlist:item=1848640623#notes:[Void][Super]
+    // STRONGHOLD
+dimwishlist:item=2240152949#notes:[Weapon]
+    // CITAN'S RAMPARTS
+dimwishlist:item=1190497097#notes:[Class]
+    // ICEFALL MANTLE
+dimwishlist:item=1467044898#notes:[Class][Slow]
+    // NO BACKUP PLANS
+dimwishlist:item=3267996858#notes:[Void][Weapon]
+    // SECOND CHANCE
+dimwishlist:item=1443166262#notes:[Void][Melee]
+
+  # Chest Armor
