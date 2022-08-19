@@ -1,12 +1,12 @@
 # Weapon Tags
     // AGER'S SCEPTER
-dimwishlist:item=1833195496#notes:[Slow][Freeze][Super]
+dimwishlist:item=1833195496#notes:[Freeze][Slow][Super]
     // BAD JUJU
 dimwishlist:item=2816212794#notes:[Super]
     // COLDHEART
-dimwishlist:item=1345867571#notes:[Ionic Traces][Grenade][Melee][Class]
+dimwishlist:item=1345867571#notes:[Ionic Traces][Class][Grenade][Melee]
     // CRYOSTHESIA 77K
-dimwishlist:item=603721696#notes:[Slow][Freeze]
+dimwishlist:item=603721696#notes:[Freeze][Slow]
     // DIVINITY
 dimwishlist:item=4103414242#notes:[Weaken]
     // EDGE OF INTENT
@@ -26,7 +26,7 @@ dimwishlist:item=19024058#notes:[Scorch]
     // RAT KING
 dimwishlist:item=2362471601#notes:[Invisible]
     // SALVATION'S GRIP
-dimwishlist:item=370712896#notes:[Stasis Crystal][Freeze]
+dimwishlist:item=370712896#notes:[Freeze][Stasis Crystal]
     // SKYBURNER'S OATH
 dimwishlist:item=4255268456#notes:[Scorch]
     // THORN
@@ -34,7 +34,7 @@ dimwishlist:item=3973202132#notes:[Weapon of Sorrow]
     // TRACTOR CANNON
 dimwishlist:item=3580904581#notes:[Suppress]
     // TRAVELER'S CHOSEN
-dimwishlist:item=1853180924#notes:[Grenade][Melee][Class]
+dimwishlist:item=1853180924#notes:[Class][Grenade][Melee]
     // TWO-TAILED FOX
 dimwishlist:item=2694576561#notes:[Suppress]
     // WAVESPLITTER
@@ -66,7 +66,7 @@ dimwishlist:item=241462141#notes:[Void][Super]
         // SYNTHOCEPS
 dimwishlist:item=241462142#notes:[Melee][Super]
         // AEON SAFE
-dimwishlist:item=1654461647#notes:[Weapon][Class]
+dimwishlist:item=1654461647#notes:[Class][Weapon]
         // ASHEN WAKE
 dimwishlist:item=1734844650#notes:[Solar][Grenade]
         // WORMGOD CARESS
