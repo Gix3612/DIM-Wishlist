@@ -1,42 +1,42 @@
 # Weapon Tags
-    // MONTE CARLO
-dimwishlist:item=4068264807#notes:[Melee]
-    // BAD JUJU
-dimwishlist:item=2816212794#notes:[Super]
-    // LUMINA
-dimwishlist:item=3512014804#notes:[Noble Seeker]
-    // EDGE OF INTENT
-dimwishlist:item=14194600#notes:[Noble Seeker]
-    // THORN
-dimwishlist:item=3973202132#notes:[Weapon of Sorrow]
-    // SKYBURNER'S OATH
-dimwishlist:item=4255268456#notes:[Scorch]
-    // FORERUNNER
-dimwishlist:item=2179048386#notes:[Grenade]
-    // RAT KING
-dimwishlist:item=2362471601#notes:[Invisible]
-    // TRAVELER'S CHOSEN
-dimwishlist:item=1853180924#notes:[Grenade][Melee][Class]
-    // CRYOSTHESIA 77K
-dimwishlist:item=603721696#notes:[Slow]
-    // OSTEO STRIGA
-dimwishlist:item=46524085#notes:[Weapon of Sorrow]
     // AGER'S SCEPTER
 dimwishlist:item=1833195496#notes:[Slow][Super]
+    // BAD JUJU
+dimwishlist:item=2816212794#notes:[Super]
+    // CRYOSTHESIA 77K
+dimwishlist:item=603721696#notes:[Slow]
     // DIVINITY
 dimwishlist:item=4103414242#notes:[Weaken]
-    // PROMETHEUS LENS
-dimwishlist:item=19024058#notes:[Scorch]
-    // WAVESPLITTER
-dimwishlist:item=1852863732#notes:[Suppress]
-    // SALVATION'S GRIP
-dimwishlist:item=370712896#notes:[Stasis Crystal]
-    // TWO-TAILED FOX
-dimwishlist:item=2694576561#notes:[Suppress]
-    // TRACTOR CANNON
-dimwishlist:item=3580904581#notes:[Suppress]
+    // EDGE OF INTENT
+dimwishlist:item=14194600#notes:[Noble Seeker]
+    // FORERUNNER
+dimwishlist:item=2179048386#notes:[Grenade]
     // HEARTSHADOW
 dimwishlist:item=3664831848#notes:[Invisible]
+    // LUMINA
+dimwishlist:item=3512014804#notes:[Noble Seeker]
+    // MONTE CARLO
+dimwishlist:item=4068264807#notes:[Melee]
+    // OSTEO STRIGA
+dimwishlist:item=46524085#notes:[Weapon of Sorrow]
+    // PROMETHEUS LENS
+dimwishlist:item=19024058#notes:[Scorch]
+    // RAT KING
+dimwishlist:item=2362471601#notes:[Invisible]
+    // SALVATION'S GRIP
+dimwishlist:item=370712896#notes:[Stasis Crystal]
+    // SKYBURNER'S OATH
+dimwishlist:item=4255268456#notes:[Scorch]
+    // THORN
+dimwishlist:item=3973202132#notes:[Weapon of Sorrow]
+    // TRACTOR CANNON
+dimwishlist:item=3580904581#notes:[Suppress]
+    // TRAVELER'S CHOSEN
+dimwishlist:item=1853180924#notes:[Grenade][Melee][Class]
+    // TWO-TAILED FOX
+dimwishlist:item=2694576561#notes:[Suppress]
+    // WAVESPLITTER
+dimwishlist:item=1852863732#notes:[Suppress]
 
 # Titan
   # Helmet
