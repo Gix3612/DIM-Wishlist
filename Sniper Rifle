@@ -4,19 +4,31 @@ title:Gix's Sniper Rifle Wishlist
 # Kinetic
 	// Silicon Neuroma (PvE)
 dimwishlist:item=3355385170&perks=1840239774,3230963543,3400784728,1771339417
+dimwishlist:item=3355385170&perks=3400784728,1771339417
+dimwishlist:item=3355385170&perks=3400784728
+dimwishlist:item=3355385170&perks=1771339417
 	// Silicon Neuroma (Adept) (PvE)
 dimwishlist:item=1387987271&perks=1482024992,3230963543,3400784728,1771339417
+dimwishlist:item=1387987271&perks=3400784728,1771339417
+dimwishlist:item=1387987271&perks=3400784728
+dimwishlist:item=1387987271&perks=1771339417
 	// Eye of Sol (PvE)
 dimwishlist:item=3164743584&perks=1482024992,3230963543,2621346526,1546637391
 dimwishlist:item=3164743584&perks=2621346526,1546637391
 dimwishlist:item=3164743584&perks=2621346526
 	// Shepherd's Watch (PvE)
 dimwishlist:item=3743729616&perks=1482024992,3230963543,1168162263,1774574192
+dimwishlist:item=3743729616&perks=1168162263,1774574192
 	// Tranquility (PvE)
 dimwishlist:item=1645386487&perks=1482024992,3230963543,3300816228,1774574192
+dimwishlist:item=1645386487&perks=3300816228,1774574192
 dimwishlist:item=1645386487&perks=1482024992,106909392,3300816228,1771339417
+dimwishlist:item=1645386487&perks=3300816228,1771339417
+dimwishlist:item=1645386487&perks=3300816228
+dimwishlist:item=1645386487&perks=1771339417
 	// Succession (PvE)
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1774574192
+dimwishlist:item=2990047042&perks=1523832109,1774574192
 
 # Stasis
 	// Thoughtless (PvE)[Crafted]
@@ -24,53 +36,44 @@ dimwishlist:item=4067556514&perks=1840239774,106909392,3643424744,124408337
 
 # Arc
 	// Adored (PvE)[Playlist]
-dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391
+dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391,2450788523,957782887
 	// Occluded Finality (PvE)
 dimwishlist:item=852551895&perks=1840239774,3230963543,247725512,1771339417
 dimwishlist:item=852551895&perks=247725512,1771339417
 dimwishlist:item=852551895&perks=247725512
+dimwishlist:item=852551895&perks=1771339417
 
 # Solar
 	// Beloved (PvE)[Crafted]
 dimwishlist:item=3107853529&perks=1482024992,3230963543,1354429876,4293542123
 	// The Long Walk (PvE)
 dimwishlist:item=3326850591&perks=1840239774,3230963543,3643424744,1771339417
+dimwishlist:item=3326850591&perks=3643424744,1771339417
+dimwishlist:item=3326850591&perks=3643424744
+dimwishlist:item=3326850591&perks=1771339417
 
 # Void
 	// Fugue-55 (PvE)
 dimwishlist:item=2233545123&perks=1482024992,3230963543,1354429876,1771339417
+dimwishlist:item=2233545123&perks=1354429876,1771339417
 dimwishlist:item=2233545123&perks=1840239774,3142289711,3300816228,1771339417
-
-dimwishlist:item=10&perks=1354429876,1771339417
-dimwishlist:item=10&perks=3400784728,1771339417
-dimwishlist:item=10&perks=3643424744,1771339417
-	// Fourth Time's the Charm
-dimwishlist:item=10&perks=1354429876
-	// Triple Tap
-dimwishlist:item=10&perks=3400784728
-	// Overflow
-dimwishlist:item=10&perks=3643424744
-	// Firing Line
-dimwishlist:item=10&perks=1771339417
-	// Vorpal Weapon
-dimwishlist:item=10&perks=1546637391
+dimwishlist:item=2233545123&perks=1840239774,3300816228,1771339417
 
 //notes:PvP
 	// Shepherd's Watch (PvP)
 dimwishlist:item=3743729616&perks=1840239774,3142289711,1645158859,47981717
+dimwishlist:item=3743729616&perks=1645158859,47981717
+dimwishlist:item=3743729616&perks=1645158859
+dimwishlist:item=3743729616&perks=47981717
 	// Praedyth's Revenge (PvP)
 dimwishlist:item=3653573172&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=3653573172&perks=588594999,47981717
+dimwishlist:item=3653573172&perks=588594999
+dimwishlist:item=3653573172&perks=47981717
 	// Eye of Sol (PvP)
 dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=3164743584&perks=588594999,47981717
+dimwishlist:item=3164743584&perks=588594999
+dimwishlist:item=3164743584&perks=47981717
 	// Father's Sins (PvP)[Crafted]
 dimwishlist:item=3865728990&perks=1840239774,3142289711,1645158859,47981717
-
-//notes:PvP
-dimwishlist:item=10&perks=588594999,47981717
-dimwishlist:item=10&perks=1645158859,47981717
-	// Moving Target
-dimwishlist:item=10&perks=588594999
-	// Under Pressure
-dimwishlist:item=10&perks=1645158859
-	// Opening Shot
-dimwishlist:item=10&perks=47981717
