@@ -43,6 +43,8 @@ dimwishlist:item=1853180924#notes:[Class][Grenade][Melee]
 dimwishlist:item=2694576561#notes:[Suppress]
     // WAVESPLITTER
 dimwishlist:item=1852863732#notes:[Suppress]
+    // WORLDLINE ZERO
+dimwishlist:item=1864563948#notes:[Blink]
 
 # Titan
     # Helmet
@@ -217,7 +219,7 @@ dimwishlist:item=2428181146#notes:[Grenade][Weapon][Matching]
         // APOTHEOSIS VEIL
 dimwishlist:item=1096253259#notes:[Class][Melee][Grenade]
         // ASTROCYTE VERSE
-dimwishlist:item=3948284065#notes:[Void][Movement][Weapon]
+dimwishlist:item=3948284065#notes:[Void][Movement][Weapon][Blink]
         // FELWINTER'S HELM
 dimwishlist:item=2822465023#notes:[Melee][Weaken]
         // DAWN CHORUS
