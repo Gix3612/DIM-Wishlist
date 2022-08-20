@@ -13,6 +13,8 @@ dimwishlist:item=4103414242#notes:[Weaken]
 dimwishlist:item=14194600#notes:[Noble Seeker]
     // FORERUNNER
 dimwishlist:item=2179048386#notes:[Grenade]
+    // GRAND OVERTURE
+dimwishlist:item=1763584999#notes:[Blind]
     // HEARTSHADOW
 dimwishlist:item=3664831848#notes:[Invisible]
     // LUMINA
@@ -29,6 +31,8 @@ dimwishlist:item=2362471601#notes:[Invisible]
 dimwishlist:item=370712896#notes:[Freeze][Stasis Crystal]
     // SKYBURNER'S OATH
 dimwishlist:item=4255268456#notes:[Scorch]
+    // THE QUEENBREAKER
+dimwishlist:item=2044500762#notes:[Blind]
     // THORN
 dimwishlist:item=3973202132#notes:[Weapon of Sorrow]
     // TRACTOR CANNON
@@ -49,7 +53,7 @@ dimwishlist:item=3883866764#notes:[Class][Grenade][Melee]
         // KHEPRI'S HORN
 dimwishlist:item=2384488862#notes:[Solar][Class]
         // HELM OF SAINT-14
-dimwishlist:item=106575079#notes:[Void][Super]
+dimwishlist:item=106575079#notes:[Void][Super][Blind]
         // ETERNAL WARRIOR
 dimwishlist:item=2808156426#notes:[Arc][Super]
         // ONE-EYED MASK
@@ -190,7 +194,7 @@ dimwishlist:item=1163283805#notes:[Class]
         // FR0ST-EE5
 dimwishlist:item=609852545#notes:[Class][Grenade][Melee][Movement]
         // THE BOMBARDIERS
-dimwishlist:item=1219761634#notes:[Class][Slow][Scorch][Suppress]
+dimwishlist:item=1219761634#notes:[Class][Slow][Scorch][Suppress][Blind]
         // STAR-EATER SCALES
 dimwishlist:item=1001356380#notes:[Super]
         // RADIANT DANCE MACHINES
