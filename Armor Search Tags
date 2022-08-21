@@ -9,6 +9,8 @@ dimwishlist:item=1345867571#notes:[Ionic Traces][Class][Grenade][Melee]
 dimwishlist:item=603721696#notes:[Freeze][Slow]
     // DIVINITY
 dimwishlist:item=4103414242#notes:[Weaken]
+    // EDGE OF ACTION
+dimwishlist:item=2535142413#notes:[Ward of Dawn]
     // EDGE OF INTENT
 dimwishlist:item=14194600#notes:[Noble Seeker]
     // FORERUNNER
@@ -55,7 +57,7 @@ dimwishlist:item=3883866764#notes:[Class][Grenade][Melee]
         // KHEPRI'S HORN
 dimwishlist:item=2384488862#notes:[Solar][Class]
         // HELM OF SAINT-14
-dimwishlist:item=106575079#notes:[Void][Super][Blind]
+dimwishlist:item=106575079#notes:[Void][Super][Blind][Ward of Dawn]
         // ETERNAL WARRIOR
 dimwishlist:item=2808156426#notes:[Arc][Super]
         // ONE-EYED MASK
