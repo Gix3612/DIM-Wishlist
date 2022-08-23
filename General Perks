@@ -18,9 +18,12 @@ dimwishlist:item=-69420&perks=671806388,2978966579
 // dimwishlist:item=-69420&perks=4293542123
 
 // Synergy Combos
-	// Wellspring/Demolitionist, Golden Tricorn
+	// Wellspring/Demolitionist/Pugilist, Golden Tricorn
 dimwishlist:item=-69420&perks=3592538738,2610012052
 dimwishlist:item=-69420&perks=3523296417,2610012052
+dimwishlist:item=-69420&perks=691659142,2610012052
+	// Graverobber, Pugilist
+dimwishlist:item=-69420&perks=1631667848,691659142
 	// Shoot to Loot, Dragonfly/Explosive Payload/Explosive Head
 dimwishlist:item=-69420&perks=3700496672,2848615171
 dimwishlist:item=-69420&perks=3700496672,3038247973
