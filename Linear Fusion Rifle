@@ -4,14 +4,14 @@ title:Gix's Linear Fusion Rifle Wishlist
 # Kinetic
 
 # Stasis
-	// Reed's Regret (PvE)
+	// Reed's Regret
 dimwishlist:item=1399243961&perks=1840239774,689005463,3300816228,124408337
 dimwishlist:item=1399243961&perks=689005463,124408337
 dimwishlist:item=1399243961&perks=1840239774,689005463,3300816228,1771339417,3988215619
 dimwishlist:item=1399243961&perks=1840239774,3300816228,1771339417,3988215619
 
 # Arc
-	// Stormchaser (PvE)
+	// Stormchaser
 dimwishlist:item=3652506829&perks=1840239774,689005463,247725512,1771339417
 dimwishlist:item=3652506829&perks=1840239774,247725512,1771339417
 dimwishlist:item=3652506829&perks=1840239774,689005463,3300816228,1771339417
@@ -25,11 +25,11 @@ dimwishlist:item=3652506829&perks=3300816228,4104185692
 dimwishlist:item=3652506829&perks=4104185692
 
 # Solar
-	// Cataclysmic (PvE)[Crafted]
+	// Cataclysmic [Crafted]
 dimwishlist:item=999767358&perks=1840239774,689005463,1354429876,3078487919
 
 # Void
-	// Threaded Needle (PvE)
+	// Threaded Needle
 dimwishlist:item=3075224551&perks=1840239774,689005463,247725512,1546637391
 dimwishlist:item=3075224551&perks=247725512,1546637391
 dimwishlist:item=3075224551&perks=247725512
