@@ -4,44 +4,41 @@ title:Gix's Fusion Rifle Wishlist
 # Kinetic
 
 # Stasis
-	// Deliverance (PvE)[Crafted]
+	// Deliverance [Crafted]
 dimwishlist:item=768621510&perks=1840239774,689005463,3523296417,3078487919
-	// Burden of Guilt (PvE)
+	// Burden of Guilt
 dimwishlist:item=933455006&perks=1840239774,689005463,3511092054,1546637391
 dimwishlist:item=933455006&perks=3511092054,1546637391
 dimwishlist:item=933455006&perks=3511092054
-	// Riptide (PvE)
+	// Riptide
 dimwishlist:item=2715240478&perks=202670084,689005463,671806388,2978966579
 dimwishlist:item=2715240478&perks=671806388,2978966579
 dimwishlist:item=2715240478&perks=671806388
 dimwishlist:item=2715240478&perks=2978966579
 
 # Arc
-	// PLUG ONE.1 (PvE)
+	// PLUG ONE.1
 dimwishlist:item=1289000550&perks=1840239774,689005463,671806388,1427256713
 dimwishlist:item=1289000550&perks=671806388,1427256713
 
 # Solar
-	// Trinary System (PvE)
+	// Trinary System
 dimwishlist:item=3258665412&perks=1840239774,689005463,1866048759,3523296417
 dimwishlist:item=3258665412&perks=1866048759,3523296417
 dimwishlist:item=3258665412&perks=1866048759
 dimwishlist:item=3258665412&perks=3523296417
 
 # Void
-	// Likely Suspect (PvE)[Crafted]
+	// Likely Suspect [Crafted]
 dimwishlist:item=1994645182&perks=1482024992,689005463,2621346526,2652708987
-	// The Epicurean (PvE)
+	// The Epicurean [Crafted]
 dimwishlist:item=2263839058&perks=1840239774,689005463,2621346526,1600092898
-dimwishlist:item=2263839058&perks=2621346526,1600092898
-dimwishlist:item=2263839058&perks=2621346526
-dimwishlist:item=2263839058&perks=1600092898
-	// Snorri FR5 (PvE)
+	// Snorri FR5
 dimwishlist:item=4114929480&perks=1840239774,689005463,671806388,1427256713
 dimwishlist:item=4114929480&perks=689005463,671806388,1427256713
 
 //notes:PvP
-	// Burden of Guilt (PvP)
+	// Burden of Guilt
 dimwishlist:item=933455006&perks=1840239774,689005463,744594675,2213355989
 dimwishlist:item=933455006&perks=744594675,2213355989
 dimwishlist:item=933455006&perks=744594675
