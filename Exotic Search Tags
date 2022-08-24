@@ -57,6 +57,8 @@ dimwishlist:item=1467044898#notes:[Class]
 dimwishlist:item=3267996858#notes:[Void][Melee][Melee Energy][Weapon]
         // SECOND CHANCE
 dimwishlist:item=1443166262#notes:[Void][Melee]
+        // POINT-CONTACT CANNON BRACE
+dimwishlist:item=1703598057#notes:[Arc][Melee][Melee Energy]
     # Chest Armor
         // CREST OF ALPHA LUPI
 dimwishlist:item=1591207519#notes:[Class][Super Energy]
@@ -101,7 +103,7 @@ dimwishlist:item=1321354573#notes:[Solar][Super][Super Energy]
         // FOETRACER
 dimwishlist:item=896224899#notes:[Weapon]
         // GRAVITON FORFEIT
-dimwishlist:item=2773056939#notes:[Melee Energy][Weapon]
+dimwishlist:item=2773056939#notes:[Void][Melee Energy][Weapon]
         // WORMHUSK CROWN
 dimwishlist:item=3562696927#notes:[Class]
         // ASSASSIN'S COWL
@@ -152,6 +154,8 @@ dimwishlist:item=1474735276#notes:[Void][Super Energy]
 dimwishlist:item=2268523867#notes:[Arc][Super]
         // OMNIOCULUS
 dimwishlist:item=1935198785#notes:[Void][Melee][Melee Energy]
+        // GYRFALCON'S HAUBERK
+dimwishlist:item=461841403#notes:[Void][Class][Class Energy][Weapon]
     # Leg Armor
         // LUCKY PANTS
 dimwishlist:item=193869522#notes:[Weapon][Weapon Match]
@@ -192,6 +196,8 @@ dimwishlist:item=3948284065#notes:[Movement][Weapon]
 dimwishlist:item=2822465023#notes:[Melee]
         // DAWN CHORUS
 dimwishlist:item=2316914168#notes:[Solar][Melee Energy][Super]
+        // FALLEN SUNSTAR
+dimwishlist:item=1849149215#notes:[Arc][Class Energy][Grenade Energy][Melee Energy]
     # Gauntlets
         // SUNBRACERS
 dimwishlist:item=3787517196#notes:[Solar][Grenade][Grenade Energy]
