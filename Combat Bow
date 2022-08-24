@@ -2,51 +2,48 @@ title:Gix's Combat Bow Wishlist
 // hash: 3317538576
 
 # Kinetic
-	// Whispering Slab (PvE)
+	// Whispering Slab
 dimwishlist:item=211938782&perks=852209214,16392701,201365942,3350417888
 dimwishlist:item=211938782&perks=201365942,3350417888
 dimwishlist:item=211938782&perks=201365942
 dimwishlist:item=211938782&perks=3350417888
-	// Fel Taradiddle (PvE)[Crafted]
+	// Fel Taradiddle [Crafted]
 dimwishlist:item=1399109800&perks=852209214,16392701,201365942,2652708987
 
 # Stasis
-	// Lunulata-4b (PvE)
+	// Lunulata-4b
 dimwishlist:item=2513965917&perks=852209214,16392701,3700496672,124408337
 dimwishlist:item=2513965917&perks=16392701,3700496672,124408337
 
 # Arc
-	// Arsenic Bite-4b (PvE)
+	// Arsenic Bite-4b
 dimwishlist:item=720351795&perks=852209214,16392701,2848615171,201365942
 dimwishlist:item=720351795&perks=2848615171,201365942
 dimwishlist:item=720351795&perks=2848615171
 dimwishlist:item=720351795&perks=201365942
 
 # Solar
-	// Strident Whistle (PvE)
+	// Strident Whistle
 dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,4293542123
 dimwishlist:item=2591241074&perks=16392701,201365942,4293542123
 
 # Void
-	// Under Your Skin (PvE)[Crafted]
+	// Under Your Skin [Crafted]
 dimwishlist:item=232928045&perks=2801223209,16392701,201365942,1048183818
 
-	// Sympathetic Arsenal
-dimwishlist:item=3317538576&perks=3350417888
-
 //notes:PvP
-	// Accrued Redemption (PvP)
+	// Accrued Redemption
 dimwishlist:item=4095896073&perks=2801223209,16392701,201365942,3365897133
 dimwishlist:item=4095896073&perks=201365942,3365897133
 dimwishlist:item=4095896073&perks=201365942
 dimwishlist:item=4095896073&perks=3365897133
-	// Fel Taradiddle (PvP)[Crafted]
+	// Fel Taradiddle [Crafted]
 dimwishlist:item=1399109800&perks=852209214,16392701,201365942,3365897133
 dimwishlist:item=1399109800&perks=852209214,16392701,2846385770,3365897133
-	// Biting Winds (PvP)
+	// Biting Winds
 dimwishlist:item=1621657423&perks=2801223209,16392701,588594999,3365897133
 dimwishlist:item=1621657423&perks=588594999,3365897133
 dimwishlist:item=1621657423&perks=588594999
 dimwishlist:item=1621657423&perks=3365897133
-	// Under Your Skin (PvP)[Crafted]
+	// Under Your Skin [Crafted]
 dimwishlist:item=232928045&perks=2801223209,16392701,1866048759,3365897133
