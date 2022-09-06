@@ -14,7 +14,7 @@ dimwishlist:item=3400256755&perks=1749209109,3650930298
 	// Temptation's Hook
 dimwishlist:item=35794111&perks=3666208348,3625355092,1749209109,1546637391
 	// Half-Truths [Crafted]
-dimwishlist:item=3257091166&perks=1261178282,3625355092,3108830275,2396489472
+dimwishlist:item=3257091166&perks=1261178282,269888150,3705817207,2396489472
 
 # Solar
 	// Sola's Scar
@@ -67,4 +67,5 @@ dimwishlist:item=1796949035&perks=354401740
 dimwishlist:item=1796949035&perks=2590710093
 
 //notes:Double Row Crafting
-
+	// The Other Half [Crafted]
+dimwishlist:item=3257091167&perks=1261178282,269888150,2244851822,776531651
