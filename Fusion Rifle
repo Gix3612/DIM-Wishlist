@@ -94,3 +94,13 @@ dimwishlist:item=933455006&perks=689005463,744594675
 dimwishlist:item=933455006&perks=1840239774,744594675
 dimwishlist:item=933455006&perks=744594675
 dimwishlist:item=933455006&perks=2213355989
+
+//notes:Double Row Crafting
+	// Midha's Reckoning [Crafted]
+dimwishlist:item=3969066556&perks=3661387068,2680121939,1600092898,1754714824
+	// The Epicurean [Crafted]
+dimwishlist:item=2263839058&perks=3661387068,2680121939,706527188,1799762209
+	// Likely Suspect [Crafted]
+dimwishlist:item=1994645182&perks=1467527085,2680121939,2039302152,3673922083
+	// Deliverance [Crafted]
+dimwishlist:item=768621510&perks=3661387068,2680121939,1799762209,2978966579
