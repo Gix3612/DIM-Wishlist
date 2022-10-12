@@ -1,28 +1,68 @@
-			PvE		PvP
-Hakke			-4+
-	RAGNHILD-D	——————— crafted ———————
-	PALMYRA-B	——————— crafted ———————
-	PERSES-D	4+
-	ENYO-D		———————————————————————
-	BOUDICA-C	1
+WORLD DROP			Type			Element		PvE		PvP
+Hakke	===============================================================	-4+		———————
+	BOUDICA-C		SIDEARM			Kinetic		1		———————
+	ENYO-D			SUBMACHINE GUN		Kinetic		———————————————————————
+	RAGNHILD-D		SHOTGUN			Kinetic		——————— crafted ———————
+	PALMYRA-B		ROCKET LAUNCHER		Stasis		——————— crafted ———————
+	PERSES-D		SCOUT RIFLE		Stasis		4+		———————
+Omolon	===============================================================	-4		-1
+	TYPHON GL5		GRENADE LAUNCHER	Stasis		4		4
+	GALLU RR3		SNIPER RIFLE		Arc		———————————————————————
+	AMMIT AR2		AUTO RIFLE		Solar		——————— crafted ———————
+	OGMA PR6		PULSE RIFLE		Solar		4		———————
+	SNORRI FR5		FUSION RIFLE		Void		3		———————
+Suros	===============================================================	-8+		-8+
+	PIZZICATO-22		SUBMACHINE GUN		Kinetic		1		0
+	SYNCOPATION-53		PULSE RIFLE		Stasis		——————— crafted ———————
+	CANTATA-57		HAND CANNON		Arc		———————		4+
+	STACCATO-46		SCOUT RIFLE		Solar		4+, 3		2
+	FUGUE-55		SNIPER RIFLE		Void		3		———————
+Veist	===============================================================	-0+		-0+++
+	KRAIT			AUTO RIFLE		Stasis		5		3++
+	LUNULATA-4B		COMBAT BOW		Stasis		4+		———————
+	REDBACK-5SI		SIDEARM			Solar		———————————————————————
+	FUNNELWEB		SUBMACHINE GUN		Void		———————		(4+)
+	TAIPAN-4FR		LINEAR FUSION RIFLE	Void		——————— crafted ———————
 
-Omolon			-4		-1
-	OGMA PR6	4
-	TYPHON GL5	4		4
-	SNORRI FR5	3
-	GALLU RR3	———————————————————————
-	AMMIT AR2	——————— crafted ———————
+CRUCIBLE PLAYLIST		Type			Element		PvE		PvP
+======================================================================= -12		-0++
+	SURVIVOR'S EPITAPH	HAND CANNON		Kinetic		(3)		———————
+	RIPTIDE			FUSION RIFLE		Stasis		1		———————
+	THE KEENING		SIDEARM			Arc		———————————————————————
+	SORROW'S VERSE		AUTO RIFLE		Arc		———————————————————————
+	CRISIS INVERTED		HAND CANNON		Arc		1		(4+)
+	OUT OF BOUNDS		SUBMACHINE GUN		Arc		1		4+
+	STARS IN SHADOW		PULSE RIFLE		Solar		———————————————————————
+	FROZEN ORBIT		SNIPER RIFLE		Void		———————————————————————
 
-Suros			-8+		-8+
-	CANTATA-57			4+
-	STACCATO-46	4+, 3		2
-	SYNCOPATION-53	——————— crafted ———————
-	FUGUE-55	3
-	PIZZICATO-22	1		0
+VANGUARD PLAYLIST		Type			Element		PvE		PvP
+======================================================================= -7+		———————
+	PURE POETRY		HAND CANNON		Kinetic		3		———————
+	FORTISSIMO-11		SHOTGUN			Kinetic		3		———————
+	XENOCLAST IV		SHOTGUN			Arc		3		———————
+	THE THIRD AXIOM		PULSE RIFLE		Arc		———————————————————————
+	PUNCHING OUT		SIDEARM			Solar		———————————————————————
+	STRIDENT WHISTLE	COMBAT BOW		Solar		3+		———————
+	EMPTY VESSEL		GRENADE LAUNCHER	Solar		3		———————
+	ROYAL ENTRY		ROCKET LAUNCHER		Void		———————————————————————
 
-Veist			-0+		-3++
-	FUNNELWEB			2
-	REDBACK-5SI	———————————————————————
-	KRAIT		5		3++
-	LUNULATA-4B	4+
-	TAIPAN-4FR	——————— crafted ———————
+GAMBIT PLAYLIST			Type			Element		PvE		PvP
+======================================================================= -13		-0+
+	SERVANT LEADER		SCOUT RIFLE		Kinetic		3		———————
+	HEROD-C			AUTO RIFLE		Stasis		———————————————————————
+	DEAD WEIGHT		SHOTGUN			Arc		———————————————————————
+	BORROWED TIME		SUBMACHINE GUN		Solar		———————		(4+)
+	TRINARY SYSTEM		FUSION RIFLE		Solar		1		———————
+	BOTTOM DOLLAR		HAND CANNON		Void		3		———————
+	YESTERYEAR		PULSE RIFLE		Void		2		———————
+	CROWD PLEASER		GRENADE LAUNCHER	Void		3		———————
+
+IRON BANNER			Type			Element		PvE		PvP
+======================================================================= -11		-13
+	ALLIED DEMAND		SIDEARM			Kinetic		———————		0
+	OCCLUDED FINALITY	SNIPER RIFLE		Arc		———————————————————————
+	THE WIZENED REBUKE	FUSION RIFLE		Arc		———————————————————————
+	FRONTIER'S CRY		HAND CANNON		Solar		2		———————
+	ROAR OF THE BEAR	ROCKET LAUNCHER		Solar		0		0
+	RAZOR'S EDGE		SWORD			Void		2		2
+	THE HERO'S BURDEN	SUBMACHINE GUN		Void		———————————————————————
