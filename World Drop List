@@ -24,8 +24,8 @@ Veist	===============================================================	-0+		-0+++
 	FUNNELWEB		SUBMACHINE GUN		Void		———————		(4+)
 	TAIPAN-4FR		LINEAR FUSION RIFLE	Void		——————— crafted ———————
 
-CRUCIBLE PLAYLIST		Type			Element		PvE		PvP
-======================================================================= -12		-0++
+PLAYLISTS			Type			Element		PvE		PvP
+Crucible	======================================================= -12		-0++
 	SURVIVOR'S EPITAPH	HAND CANNON		Kinetic		(3)		———————
 	RIPTIDE			FUSION RIFLE		Stasis		1		———————
 	THE KEENING		SIDEARM			Arc		———————————————————————
@@ -34,20 +34,7 @@ CRUCIBLE PLAYLIST		Type			Element		PvE		PvP
 	OUT OF BOUNDS		SUBMACHINE GUN		Arc		1		4+
 	STARS IN SHADOW		PULSE RIFLE		Solar		———————————————————————
 	FROZEN ORBIT		SNIPER RIFLE		Void		———————————————————————
-
-VANGUARD PLAYLIST		Type			Element		PvE		PvP
-======================================================================= -7+		———————
-	PURE POETRY		HAND CANNON		Kinetic		3		———————
-	FORTISSIMO-11		SHOTGUN			Kinetic		3		———————
-	XENOCLAST IV		SHOTGUN			Arc		3		———————
-	THE THIRD AXIOM		PULSE RIFLE		Arc		———————————————————————
-	PUNCHING OUT		SIDEARM			Solar		———————————————————————
-	STRIDENT WHISTLE	COMBAT BOW		Solar		3+		———————
-	EMPTY VESSEL		GRENADE LAUNCHER	Solar		3		———————
-	ROYAL ENTRY		ROCKET LAUNCHER		Void		———————————————————————
-
-GAMBIT PLAYLIST			Type			Element		PvE		PvP
-======================================================================= -13		-0+
+Gambit		======================================================= -13		-0+
 	SERVANT LEADER		SCOUT RIFLE		Kinetic		3		———————
 	HEROD-C			AUTO RIFLE		Stasis		———————————————————————
 	DEAD WEIGHT		SHOTGUN			Arc		———————————————————————
@@ -56,13 +43,37 @@ GAMBIT PLAYLIST			Type			Element		PvE		PvP
 	BOTTOM DOLLAR		HAND CANNON		Void		3		———————
 	YESTERYEAR		PULSE RIFLE		Void		2		———————
 	CROWD PLEASER		GRENADE LAUNCHER	Void		3		———————
-
-IRON BANNER			Type			Element		PvE		PvP
-======================================================================= -11		-13
+Vanguard	======================================================= -7+		———————
+	PURE POETRY		HAND CANNON		Kinetic		3		———————
+	FORTISSIMO-11		SHOTGUN			Kinetic		3		———————
+	XENOCLAST IV		SHOTGUN			Arc		3		———————
+	THE THIRD AXIOM		PULSE RIFLE		Arc		———————————————————————
+	PUNCHING OUT		SIDEARM			Solar		———————————————————————
+	STRIDENT WHISTLE	COMBAT BOW		Solar		3+		———————
+	EMPTY VESSEL		GRENADE LAUNCHER	Solar		3		———————
+	ROYAL ENTRY		ROCKET LAUNCHER		Void		———————————————————————
+Iron Banner	======================================================= -11		-13
 	ALLIED DEMAND		SIDEARM			Kinetic		———————		0
-	OCCLUDED FINALITY	SNIPER RIFLE		Arc		———————————————————————
+	OCCLUDED FINALITY	SNIPER RIFLE		Arc		0		———————
 	THE WIZENED REBUKE	FUSION RIFLE		Arc		———————————————————————
 	FRONTIER'S CRY		HAND CANNON		Solar		2		———————
 	ROAR OF THE BEAR	ROCKET LAUNCHER		Solar		0		0
 	RAZOR'S EDGE		SWORD			Void		2		2
 	THE HERO'S BURDEN	SUBMACHINE GUN		Void		———————————————————————
+
+HOLIDAYS			Type			Element		PvE		PvP
+Solstice		=============================================== -2+		———————
+	SOMETHING NEW		HAND CANNON		Stasis		2+		———————
+	COMPASS ROSE		SHOTGUN			Solar		———————————————————————
+Festival of the Lost	=============================================== -6		-7
+	BRAYTECH WEREWOLF	AUTO RIFLE		Kinetic		———————		0
+	HORROR STORY		AUTO RIFLE		Kinetic		———————————————————————
+	MECHABRE		SNIPER RIFLE		Arc		0		———————
+	JURASSIC GREEN		PULSE RIFLE		Solar		(4)		(3)
+The Dawning		=============================================== -1++		———————
+	COLD FRONT		SUBMACHINE GUN		Kinetic		———————————————————————
+	GLACIOCLASM		FUSION RIFLE		Void		———————————————————————
+	ZEPHYR			SWORD			Stasis		3+		———————
+	AVALANCHE		MACHINE GUN		Solar		3++		———————
+Guardian Games		=============================================== ———————————————————————
+	THE TITLE		SUBMACHINE GUN		Void		———————————————————————
