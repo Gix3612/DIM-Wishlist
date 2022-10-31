@@ -43,7 +43,7 @@ Gambit		======================================================= -13		-0+
 	BOTTOM DOLLAR		HAND CANNON		Void		3		———————
 	YESTERYEAR		PULSE RIFLE		Void		2		———————
 	CROWD PLEASER		GRENADE LAUNCHER	Void		3		———————
-Vanguard	======================================================= -7+		———————
+Vanguard	======================================================= -9+		———————
 	PURE POETRY		HAND CANNON		Kinetic		3		———————
 	FORTISSIMO-11		SHOTGUN			Kinetic		3		———————
 	XENOCLAST IV		SHOTGUN			Arc		3		———————
@@ -65,10 +65,10 @@ HOLIDAYS			Type			Element		PvE		PvP
 Solstice		=============================================== -2+		———————
 	SOMETHING NEW		HAND CANNON		Stasis		2+		———————
 	COMPASS ROSE		SHOTGUN			Solar		———————————————————————
-Festival of the Lost	=============================================== -6		-7
-	BRAYTECH WEREWOLF	AUTO RIFLE		Kinetic		———————		0
+Festival of the Lost	=============================================== -4++		-5
+	BRAYTECH WEREWOLF	AUTO RIFLE		Kinetic		———————		2
 	HORROR STORY		AUTO RIFLE		Kinetic		———————————————————————
-	MECHABRE		SNIPER RIFLE		Arc		0		———————
+	MECHABRE		SNIPER RIFLE		Arc		2+, 3+		———————
 	JURASSIC GREEN		PULSE RIFLE		Solar		(4)		(3)
 The Dawning		=============================================== -1++		———————
 	COLD FRONT		SUBMACHINE GUN		Kinetic		———————————————————————
