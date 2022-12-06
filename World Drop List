@@ -1,5 +1,6 @@
 WORLD DROP			Type			Element		PvE		PvP
 Hakke	===============================================================[-16.5	]======[————————]
+	LODBROK-C		AUTO RIFLE		Kinetic		————————————————————————
 	BOUDICA-C		SIDEARM			Kinetic		1		————————
 	ENYO-D			SUBMACHINE GUN		Kinetic		————————————————————————
 	RAGNHILD-D		SHOTGUN			Kinetic		——————— crafted ————————
@@ -7,6 +8,7 @@ Hakke	===============================================================[-16.5	]===
 	PERSES-D		SCOUT RIFLE		Stasis		4+		————————
 Omolon	===============================================================[-6	]======[-1	]
 	TYPHON GL5		GRENADE LAUNCHER	Stasis		4		4
+	AURVANDIL FR6		FUSION RIFLE		Stasis		0		————————
 	GALLU RR3		SNIPER RIFLE		Arc		————————————————————————
 	AMMIT AR2		AUTO RIFLE		Solar		——————— crafted ————————
 	OGMA PR6		PULSE RIFLE		Solar		4		————————
@@ -17,9 +19,11 @@ Suros	===============================================================[-24.5	]===
 	CANTATA-57		HAND CANNON		Arc		————————	4+
 	STACCATO-46		SCOUT RIFLE		Solar		4+, 3		2
 	FUGUE-55		SNIPER RIFLE		Void		3		————————
+	FIORITURA-59		SIDEARM			Void		0		————————
 Veist	===============================================================[-0.5	]======[-2.5	]
 	KRAIT			AUTO RIFLE		Stasis		5		3++
 	LUNULATA-4B		COMBAT BOW		Stasis		4+		————————
+	JARARACA-3SR		SCOUT RIFLE		Stasis		————————————————————————
 	REDBACK-5SI		SIDEARM			Solar		————————————————————————
 	FUNNELWEB		SUBMACHINE GUN		Void		————————	(4+)
 	TAIPAN-4FR		LINEAR FUSION RIFLE	Void		——————— crafted ————————
@@ -32,12 +36,14 @@ Crucible	=======================================================[-52	]======[-1	
 	SORROW'S VERSE		AUTO RIFLE		Arc		————————————————————————
 	CRISIS INVERTED		HAND CANNON		Arc		1		(4+)
 	OUT OF BOUNDS		SUBMACHINE GUN		Arc		1		4+
+	BLOWOUT			ROCKET LAUNCHER		Arc		————————————————————————
 	STARS IN SHADOW		PULSE RIFLE		Solar		————————————————————————
 	FROZEN ORBIT		SNIPER RIFLE		Void		————————————————————————
 Gambit		=======================================================[-37	]======[-0.5	]
 	SERVANT LEADER		SCOUT RIFLE		Kinetic		3		————————
 	HEROD-C			AUTO RIFLE		Stasis		————————————————————————
 	DEAD WEIGHT		SHOTGUN			Arc		————————————————————————
+	ALBRUNA-D		SNIPER RIFLE		Arc		0		————————
 	BORROWED TIME		SUBMACHINE GUN		Solar		————————	(4+)
 	TRINARY SYSTEM		FUSION RIFLE		Solar		1		————————
 	BOTTOM DOLLAR		HAND CANNON		Void		3		————————
@@ -52,10 +58,13 @@ Vanguard	=======================================================[-18.5	]======[�
 	STRIDENT WHISTLE	COMBAT BOW		Solar		3+		————————
 	EMPTY VESSEL		GRENADE LAUNCHER	Solar		3		————————
 	ROYAL ENTRY		ROCKET LAUNCHER		Void		————————————————————————
+	PROLONGED ENGAGEMENT	SUBMACHINE GUN		Stasis		————————	0
 Iron Banner	=======================================================[-68	]======[-59	]
 	ALLIED DEMAND		SIDEARM			Kinetic		————————	0
 	OCCLUDED FINALITY	SNIPER RIFLE		Arc		0		————————
 	THE WIZENED REBUKE	FUSION RIFLE		Arc		————————————————————————
+	DARK DECIDER		AUTO RIFLE		Arc		0		————————
+	GUNNORA'S AXE		SHOTGUN			Arc		0		————————
 	FRONTIER'S CRY		HAND CANNON		Solar		2		————————
 	ROAR OF THE BEAR	ROCKET LAUNCHER		Solar		0		0
 	RAZOR'S EDGE		SWORD			Void		2		2
