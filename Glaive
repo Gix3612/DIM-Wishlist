@@ -14,6 +14,8 @@ dimwishlist:item=542203595&perks=594346985,679225683,844190854,1067908860
 # Solar
 	// Lubrae's Ruin [Crafted]
 dimwishlist:item=2534546147&perks=580685494,679225683,2450788523,2224838837
+	// JUDGMENT OF KELGORATH [Crafted]
+dimwishlist:item=2978226043&perks=594346985,1087426260,3523296417,4293542123
 	// Edge of Intent [Crafted][Exotic][Warlock]
 dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860#notes:[Noble Seeker]
 
@@ -22,6 +24,10 @@ dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860#notes:
 dimwishlist:item=2595497736&perks=580685494,679225683,4071163871,4104185692
 	// Edge of Action [Crafted][Exotic][Titan]
 dimwishlist:item=2535142413&perks=594346985,679225683,2379536009,1067908860
+
+//notes:PvP
+	// JUDGMENT OF KELGORATH [Crafted]
+dimwishlist:item=2978226043&perks=1263609309,3142289711,3643424744,951095735
 
 //notes:Double Row Crafting
 	// Nezarec's Whisper [Crafted]
