@@ -4,6 +4,11 @@ title:Gix's Auto Rifle Wishlist
 # Kinetic
 	// Firefright [Crafted]
 dimwishlist:item=2778013407&perks=1482024992,3230963543,4071163871,1774574192
+	// SEVENTH SERAPH CARBINE
+dimwishlist:item=4070357005&perks=1482024992,1140096971,691659142,4082225868
+dimwishlist:item=4070357005&perks=1140096971,691659142,4082225868
+dimwishlist:item=4070357005&perks=1482024992,691659142,4082225868
+dimwishlist:item=4070357005&perks=691659142,4082225868
 
 # Stasis
 	// Herod-C
