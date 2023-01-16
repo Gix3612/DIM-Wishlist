@@ -2,265 +2,265 @@ title:Gix's Exotic Search Tags
 
 # Weapon Tags
     // AGER'S SCEPTER
-dimwishlist:item=1833195496#notes:[Super]
+dimwishlist:item=1833195496#notes:#Super 
     // BAD JUJU
-dimwishlist:item=2816212794#notes:[Super Energy]
+dimwishlist:item=2816212794#notes:#SuperEnergy 
     // COLDHEART
-dimwishlist:item=1345867571#notes:[Class Energy][Grenade Energy][Melee Energy]
+dimwishlist:item=1345867571#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy 
     // DELICATE TOMB
-dimwishlist:item=374573733#notes:[Class Energy][Grenade Energy][Melee Energy]
+dimwishlist:item=374573733#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy 
     // FORERUNNER
-dimwishlist:item=2179048386#notes:[Grenade]
+dimwishlist:item=2179048386#notes:#Grenade 
     // MONTE CARLO
-dimwishlist:item=4068264807#notes:[Melee Energy]
+dimwishlist:item=4068264807#notes:#MeleeEnergy 
     // TRAVELER'S CHOSEN
-dimwishlist:item=1853180924#notes:[Class Energy][Grenade Energy][Melee Energy]
+dimwishlist:item=1853180924#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy 
 
     // Wellspring
-// dimwishlist:item=-69420&perks=3592538738#notes:[Class Energy][Grenade Energy][Melee Energy]
+// dimwishlist:item=-69420&perks=3592538738#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy 
     // Demolitionist
-// dimwishlist:item=-69420&perks=3523296417#notes:[Grenade Energy]
+// dimwishlist:item=-69420&perks=3523296417#notes:#GrenadeEnergy 
     // Pugilist
-// dimwishlist:item=-69420&perks=691659142#notes:[Melee Energy]
+// dimwishlist:item=-69420&perks=691659142#notes:#MeleeEnergy 
     // Thresh
-// dimwishlist:item=-69420&perks=2726471870#notes:[Super Energy]
+// dimwishlist:item=-69420&perks=2726471870#notes:#SuperEnergy 
 
 # Titan
     # Helmet
         // AN INSURMOUNTABLE SKULLFORT
-dimwishlist:item=3216110440#notes:[Arc][Melee][Melee Energy]
+dimwishlist:item=3216110440#notes:#Arc #Melee #MeleeEnergy 
         // MASK OF THE QUIET ONE
-dimwishlist:item=3883866764#notes:[Class Energy][Grenade Energy][Melee Energy]
+dimwishlist:item=3883866764#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy 
         // KHEPRI'S HORN
-dimwishlist:item=2384488862#notes:[Solar][Class][Class Energy]
+dimwishlist:item=2384488862#notes:#Solar #Class #ClassEnergy 
         // HELM OF SAINT-14
-dimwishlist:item=106575079#notes:[Void][Super]
+dimwishlist:item=106575079#notes:#Void #Super 
         // ETERNAL WARRIOR
-dimwishlist:item=2808156426#notes:[Arc][Super]
+dimwishlist:item=2808156426#notes:#Arc #Super 
         // ONE-EYED MASK
 dimwishlist:item=2578771006
         // PRECIOUS SCARS
-dimwishlist:item=3974038291#notes:[Weapon Match]
+dimwishlist:item=3974038291#notes:#WeaponMatch 
         // LORELEY SPLENDOR HELM
-dimwishlist:item=3316517958#notes:[Solar][Class][Grenade Energy][Melee Energy]
+dimwishlist:item=3316517958#notes:#Solar #Class #GrenadeEnergy #MeleeEnergy 
     # Gauntlets
         // ACD/0 FEEDBACK FENCE
-dimwishlist:item=2563444729#notes:[Melee]
+dimwishlist:item=2563444729#notes:#Melee 
         // DOOM FANG PAULDRON
-dimwishlist:item=241462141#notes:[Void][Super][Super Energy]
+dimwishlist:item=241462141#notes:#Void #Super #SuperEnergy 
         // SYNTHOCEPS
-dimwishlist:item=241462142#notes:[Melee][Super]
+dimwishlist:item=241462142#notes:#Melee #Super 
         // AEON SAFE
-dimwishlist:item=1654461647#notes:[Class Energy][Grenade Energy][Melee Energy][Super][Super Energy][Weapon]
+dimwishlist:item=1654461647#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy #Super #SuperEnergy #Weapon 
         // ASHEN WAKE
-dimwishlist:item=1734844650#notes:[Solar][Grenade][Grenade Energy]
+dimwishlist:item=1734844650#notes:#Solar #Grenade #GrenadeEnergy 
         // WORMGOD CARESS
-dimwishlist:item=1734844651#notes:[Melee]
+dimwishlist:item=1734844651#notes:#Melee 
         // URSA FURIOSA
-dimwishlist:item=1848640623#notes:[Void][Super][Super Energy]
+dimwishlist:item=1848640623#notes:#Void #Super #SuperEnergy 
         // STRONGHOLD
-dimwishlist:item=2240152949#notes:[Weapon]
+dimwishlist:item=2240152949#notes:#Weapon 
         // CITAN'S RAMPARTS
-dimwishlist:item=1190497097#notes:[Class]
+dimwishlist:item=1190497097#notes:#Class 
         // ICEFALL MANTLE
-dimwishlist:item=1467044898#notes:[Class]
+dimwishlist:item=1467044898#notes:#Class 
         // NO BACKUP PLANS
-dimwishlist:item=3267996858#notes:[Void][Melee][Melee Energy][Weapon]
+dimwishlist:item=3267996858#notes:#Void #Melee #MeleeEnergy #Weapon 
         // SECOND CHANCE
-dimwishlist:item=1443166262#notes:[Void][Melee]
+dimwishlist:item=1443166262#notes:#Void #Melee 
         // POINT-CONTACT CANNON BRACE
-dimwishlist:item=1703598057#notes:[Arc][Melee][Melee Energy]
+dimwishlist:item=1703598057#notes:#Arc #Melee #MeleeEnergy 
     # Chest Armor
         // CREST OF ALPHA LUPI
-dimwishlist:item=1591207519#notes:[Class][Super Energy]
+dimwishlist:item=1591207519#notes:#Class #SuperEnergy 
         // ACTIUM WAR RIG
-dimwishlist:item=1591207518#notes:[Weapon]
+dimwishlist:item=1591207518#notes:#Weapon 
         // HALLOWFIRE HEART
-dimwishlist:item=1192890598#notes:[Solar][Class Energy][Grenade Energy][Melee Energy][Weapon]
+dimwishlist:item=1192890598#notes:#Solar #ClassEnergy #GrenadeEnergy #MeleeEnergy #Weapon 
         // ARMAMENTARIUM
-dimwishlist:item=3874247549#notes:[Grenade]
+dimwishlist:item=3874247549#notes:#Grenade 
         // HEART OF INMOST LIGHT
-dimwishlist:item=1341951177#notes:[Class][Class Energy][Grenade][Grenade Energy][Melee][Melee Energy]
+dimwishlist:item=1341951177#notes:#Class #ClassEnergy #Grenade #GrenadeEnergy #Melee #MeleeEnergy 
         // SEVERANCE ENCLOSURE
-dimwishlist:item=2326396534#notes:[Melee]
+dimwishlist:item=2326396534#notes:#Melee 
         // CUIRASS OF THE FALLING STAR
-dimwishlist:item=2321120637#notes:[Arc][Super]
+dimwishlist:item=2321120637#notes:#Arc #Super 
         // HOARFROST-Z
-dimwishlist:item=1322544481#notes:[Stasis][Class]
+dimwishlist:item=1322544481#notes:#Stasis #Class 
     # Leg Armor
         // LION RAMPANT
-dimwishlist:item=3539357318#notes:[Movement][Weapon]
+dimwishlist:item=3539357318#notes:#Movement #Weapon 
         // PEACEKEEPERS
-dimwishlist:item=3539357319#notes:[Weapon]
+dimwishlist:item=3539357319#notes:#Weapon 
         // DUNEMARCHERS
-dimwishlist:item=1160559849#notes:[Movement][Melee]
+dimwishlist:item=1160559849#notes:#Movement #Melee 
         // MK. 44 STAND ASIDES
-dimwishlist:item=136355432#notes:[Melee][Melee Energy]
+dimwishlist:item=136355432#notes:#Melee #MeleeEnergy 
         // ANTAEUS WARDS
-dimwishlist:item=2423243921#notes:[Movement]
+dimwishlist:item=2423243921#notes:#Movement 
         // PEREGRINE GREAVES
-dimwishlist:item=2255796155#notes:[Melee][Weapon]
+dimwishlist:item=2255796155#notes:#Melee #Weapon 
         // PHOENIX CRADLE
-dimwishlist:item=1537074069#notes:[Solar]
+dimwishlist:item=1537074069#notes:#Solar 
         // THE PATH OF BURNING STEPS
-dimwishlist:item=1453120846#notes:[Solar Synergy][Weapon]
+dimwishlist:item=1453120846#notes:#SolarSynergy #Weapon 
 
 # Hunter
     # Helmet
         // KNUCKLEHEAD RADAR
-dimwishlist:item=1321354572#notes:[Weapon]
+dimwishlist:item=1321354572#notes:#Weapon 
         // CELESTIAL NIGHTHAWK
-dimwishlist:item=1321354573#notes:[Solar][Super][Super Energy]
+dimwishlist:item=1321354573#notes:#Solar #Super #SuperEnergy 
         // FOETRACER
-dimwishlist:item=896224899#notes:[Weapon]
+dimwishlist:item=896224899#notes:#Weapon 
         // GRAVITON FORFEIT
-dimwishlist:item=2773056939#notes:[Void][Melee Energy][Weapon]
+dimwishlist:item=2773056939#notes:#Void #MeleeEnergy #Weapon 
         // WORMHUSK CROWN
-dimwishlist:item=3562696927#notes:[Class]
+dimwishlist:item=3562696927#notes:#Class 
         // ASSASSIN'S COWL
-dimwishlist:item=2203146422#notes:[Melee]
+dimwishlist:item=2203146422#notes:#Melee 
         // MASK OF BAKRIS
-dimwishlist:item=1619425569#notes:[Stasis][Class][Weapon]
+dimwishlist:item=1619425569#notes:#Stasis #Class #Weapon 
         // BLIGHT RANGER
-dimwishlist:item=1703551922#notes:[Arc][Super]
+dimwishlist:item=1703551922#notes:#Arc #Super 
     # Gauntlets
         // YOUNG AHAMKARA'S SPINE
-dimwishlist:item=475652357#notes:[Solar][Grenade][Grenade Energy]
+dimwishlist:item=475652357#notes:#Solar #Grenade #GrenadeEnergy 
         // MECHANEER'S TRICKSLEEVES
-dimwishlist:item=1734144409#notes:[Weapon]
+dimwishlist:item=1734144409#notes:#Weapon 
         // AEON SWIFT
-dimwishlist:item=3942036043#notes:[Class Energy][Grenade Energy][Melee Energy][Super][Super Energy][Weapon]
+dimwishlist:item=3942036043#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy #Super #SuperEnergy #Weapon 
         // SHINOBU'S VOW
-dimwishlist:item=1053737370#notes:[Arc][Grenade][Grenade Energy]
+dimwishlist:item=1053737370#notes:#Arc #Grenade #GrenadeEnergy 
         // SEALED AHAMKARA GRASPS
-dimwishlist:item=1688602431#notes:[Melee][Weapon]
+dimwishlist:item=1688602431#notes:#Melee #Weapon 
         // SHARDS OF GALANOR
-dimwishlist:item=691578979#notes:[Solar][Super Energy]
+dimwishlist:item=691578979#notes:#Solar #SuperEnergy 
         // OATHKEEPER
-dimwishlist:item=691578978#notes:[Weapon]
+dimwishlist:item=691578978#notes:#Weapon 
         // LIAR'S HANDSHAKE
-dimwishlist:item=4165919945#notes:[Arc][Melee]
+dimwishlist:item=4165919945#notes:#Arc #Melee 
         // KHEPRI'S STING
-dimwishlist:item=2757274117#notes:[Void][Melee]
+dimwishlist:item=2757274117#notes:#Void #Melee 
         // ATHRYS'S EMBRACE
-dimwishlist:item=2415768376#notes:[Solar][Melee]
+dimwishlist:item=2415768376#notes:#Solar #Melee 
         // RENEWAL GRASPS
-dimwishlist:item=2169905051#notes:[Stasis][Grenade]
+dimwishlist:item=2169905051#notes:#Stasis #Grenade 
         // CALIBAN'S HAND
-dimwishlist:item=3453042252#notes:[Solar][Melee][Melee Energy]
+dimwishlist:item=3453042252#notes:#Solar #Melee #MeleeEnergy 
     # Chest Armor
         // RAIDEN FLUX
-dimwishlist:item=2766109872#notes:[Arc][Super]
+dimwishlist:item=2766109872#notes:#Arc #Super 
         // LUCKY RASPBERRY
-dimwishlist:item=903984858#notes:[Arc][Grenade][Grenade Energy]
+dimwishlist:item=903984858#notes:#Arc #Grenade #GrenadeEnergy 
         // THE DRAGON'S SHADOW
-dimwishlist:item=2766109874#notes:[Class][Weapon][Movement]
+dimwishlist:item=2766109874#notes:#Class #Weapon #Movement 
         // OPHIDIA SPATHE
-dimwishlist:item=978537162#notes:[Solar][Melee]
+dimwishlist:item=978537162#notes:#Solar #Melee 
         // THE SIXTH COYOTE
-dimwishlist:item=1474735277#notes:[Class]
+dimwishlist:item=1474735277#notes:#Class 
         // GWISIN VEST
-dimwishlist:item=1474735276#notes:[Void][Super Energy]
+dimwishlist:item=1474735276#notes:#Void #SuperEnergy 
         // RAIJU'S HARNESS
-dimwishlist:item=2268523867#notes:[Arc][Super]
+dimwishlist:item=2268523867#notes:#Arc #Super 
         // OMNIOCULUS
-dimwishlist:item=1935198785#notes:[Void][Melee][Melee Energy]
+dimwishlist:item=1935198785#notes:#Void #Melee #MeleeEnergy 
         // GYRFALCON'S HAUBERK
-dimwishlist:item=461841403#notes:[Void][Class][Class Energy][Weapon]
+dimwishlist:item=461841403#notes:#Void #Class #ClassEnergy #Weapon 
     # Leg Armor
         // LUCKY PANTS
-dimwishlist:item=193869522#notes:[Weapon][Weapon Match]
+dimwishlist:item=193869522#notes:#Weapon #WeaponMatch 
         // ORPHEUS RIG
-dimwishlist:item=193869523#notes:[Void][Super][Super Energy]
+dimwishlist:item=193869523#notes:#Void #Super #SuperEnergy 
         // ST0MP-EE5
-dimwishlist:item=193869520#notes:[Weapon][Movement]
+dimwishlist:item=193869520#notes:#Weapon #Movement 
         // GEMINI JESTER
-dimwishlist:item=1163283805#notes:[Class]
+dimwishlist:item=1163283805#notes:#Class 
         // FR0ST-EE5
-dimwishlist:item=609852545#notes:[Class Energy][Grenade Energy][Melee Energy][Movement]
+dimwishlist:item=609852545#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy #Movement 
         // THE BOMBARDIERS
-dimwishlist:item=1219761634#notes:[Class]
+dimwishlist:item=1219761634#notes:#Class 
         // STAR-EATER SCALES
-dimwishlist:item=1001356380#notes:[Super][Super Energy]
+dimwishlist:item=1001356380#notes:#Super #SuperEnergy 
         // RADIANT DANCE MACHINES
-dimwishlist:item=1702288800#notes:[Class]
+dimwishlist:item=1702288800#notes:#Class 
 
 # Warlock
     # Helmet
         // SKULL OF DIRE AHAMKARA
-dimwishlist:item=1030017949#notes:[Void][Super][Super Energy]
+dimwishlist:item=1030017949#notes:#Void #Super #SuperEnergy 
         // CROWN OF TEMPESTS
-dimwishlist:item=3381022969#notes:[Arc][Class Energy][Grenade Energy][Melee Energy][Super]
+dimwishlist:item=3381022969#notes:#Arc #ClassEnergy #GrenadeEnergy #MeleeEnergy #Super 
         // EYE OF ANOTHER WORLD
-dimwishlist:item=3381022970#notes:[Class Energy][Grenade Energy][Melee Energy][Weapon]
+dimwishlist:item=3381022970#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy #Weapon 
         // NEZAREC'S SIN
-dimwishlist:item=3381022971#notes:[Void Synergy][Class Energy][Grenade Energy][Melee Energy][Super Energy]
+dimwishlist:item=3381022971#notes:#VoidSynergy #ClassEnergy #GrenadeEnergy #MeleeEnergy #SuperEnergy 
         // THE STAG
-dimwishlist:item=2177524718#notes:[Class][Class Energy]
+dimwishlist:item=2177524718#notes:#Class #ClassEnergy 
         // VERITY'S BROW
-dimwishlist:item=2428181146#notes:[Grenade][Grenade Energy][Weapon Match]
+dimwishlist:item=2428181146#notes:#Grenade #GrenadeEnergy #WeaponMatch 
         // APOTHEOSIS VEIL
-dimwishlist:item=1096253259#notes:#E #E #E
+dimwishlist:item=1096253259#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy
         // ASTROCYTE VERSE
-dimwishlist:item=3948284065#notes:[Movement][Weapon]
+dimwishlist:item=3948284065#notes:#Movement #Weapon 
         // FELWINTER'S HELM
-dimwishlist:item=2822465023#notes:[Melee]
+dimwishlist:item=2822465023#notes:#Melee 
         // DAWN CHORUS
-dimwishlist:item=2316914168#notes:[Solar][Melee Energy][Super]
+dimwishlist:item=2316914168#notes:#Solar #MeleeEnergy #Super 
         // FALLEN SUNSTAR
-dimwishlist:item=1849149215#notes:[Arc][Class Energy][Grenade Energy][Melee Energy]
+dimwishlist:item=1849149215#notes:#Arc #ClassEnergy #GrenadeEnergy #MeleeEnergy 
     # Gauntlets
         // SUNBRACERS
-dimwishlist:item=3787517196#notes:[Solar][Grenade][Grenade Energy]
+dimwishlist:item=3787517196#notes:#Solar #Grenade #GrenadeEnergy 
         // KARNSTEIN ARMLETS
-dimwishlist:item=3844826440#notes:[Melee]
+dimwishlist:item=3844826440#notes:#Melee 
         // WINTER'S GUILE
-dimwishlist:item=3844826443#notes:[Melee]
+dimwishlist:item=3844826443#notes:#Melee 
         // AEON SOUL
-dimwishlist:item=2950045886#notes:[Class Energy][Grenade Energy][Melee Energy][Super][Super Energy][Weapon]
+dimwishlist:item=2950045886#notes:#ClassEnergy #GrenadeEnergy #MeleeEnergy #Super #SuperEnergy #Weapon 
         // OPHIDIAN ASPECT
-dimwishlist:item=3627185503#notes:[Melee][Weapon]
+dimwishlist:item=3627185503#notes:#Melee #Weapon 
         // CLAWS OF AHAMKARA
-dimwishlist:item=3288917178#notes:[Melee]
+dimwishlist:item=3288917178#notes:#Melee 
         // CONTRAVERSE HOLD
-dimwishlist:item=1906093346#notes:[Void][Grenade][Grenade Energy]
+dimwishlist:item=1906093346#notes:#Void #Grenade #GrenadeEnergy 
         // GETAWAY ARTIST
-dimwishlist:item=3084282676#notes:[Arc][Grenade]
+dimwishlist:item=3084282676#notes:#Arc #Grenade 
         // NECROTIC GRIP
-dimwishlist:item=2780717641#notes:[Melee][Weapon]
+dimwishlist:item=2780717641#notes:#Melee #Weapon 
         // NOTHING MANACLES
-dimwishlist:item=300502917#notes:[Void][Grenade]
+dimwishlist:item=300502917#notes:#Void #Grenade 
         // OSMIOMANCY GLOVES
-dimwishlist:item=3259193988#notes:[Stasis][Grenade][Grenade Energy]
+dimwishlist:item=3259193988#notes:#Stasis #Grenade #GrenadeEnergy 
     # Chest Armor
         // STARFIRE PROTOCOL
-dimwishlist:item=2082483156#notes:[Solar][Class Energy][Grenade][Grenade Energy]
+dimwishlist:item=2082483156#notes:#Solar #ClassEnergy #Grenade #GrenadeEnergy 
         // WINGS OF SACRED DAWN
-dimwishlist:item=370930766#notes:[Solar][Weapon][Movement]
+dimwishlist:item=370930766#notes:#Solar #Weapon #Movement 
         // VESPER OF RADIUS
-dimwishlist:item=1725917554#notes:[Class][Class Energy]
+dimwishlist:item=1725917554#notes:#Class #ClassEnergy 
         // SANGUINE ALCHEMY
-dimwishlist:item=3070555693#notes:[Class]
+dimwishlist:item=3070555693#notes:#Class 
         // CHROMATIC FIRE
-dimwishlist:item=4057299718#notes:[Weapon]
+dimwishlist:item=4057299718#notes:#Weapon 
         // PHOENIX PROTOCOL
-dimwishlist:item=4057299719#notes:[Solar][Super Energy]
+dimwishlist:item=4057299719#notes:#Solar #SuperEnergy 
         // STORMDANCER'S BRACE
-dimwishlist:item=1996008488#notes:[Arc][Super][Super Energy]
+dimwishlist:item=1996008488#notes:#Arc #Super #SuperEnergy 
         // MANTLE OF BATTLE HARMONY
-dimwishlist:item=3301944824#notes:[Super Energy][Weapon Match]
+dimwishlist:item=3301944824#notes:#SuperEnergy #WeaponMatch 
     # Leg Armor
         // TRANSVERSIVE STEPS
-dimwishlist:item=138282166#notes:[Weapon][Movement]
+dimwishlist:item=138282166#notes:#Weapon #Movement 
         // LUNAFACTION BOOTS
-dimwishlist:item=4136768282#notes:[Class][Weapon]
+dimwishlist:item=4136768282#notes:#Class #Weapon 
         // GEOMAG STABILIZERS
-dimwishlist:item=121305948#notes:[Arc][Super]
+dimwishlist:item=121305948#notes:#Arc #Super 
         // PROMETHIUM SPUR
-dimwishlist:item=235591051#notes:[Solar][Class][Class Energy][Super][Weapon Match]
+dimwishlist:item=235591051#notes:#Solar #Class #ClassEnergy #Super #WeaponMatch 
         // BOOTS OF THE ASSEMBLER
-dimwishlist:item=3045642045#notes:[Class][Weapon]
+dimwishlist:item=3045642045#notes:#Class #Weapon 
         // SECANT FILAMENTS
-dimwishlist:item=511888814#notes:[Class]
+dimwishlist:item=511888814#notes:#Class 
         // RAIN OF FIRE
-dimwishlist:item=1624882687#notes:[Solar][Weapon]
+dimwishlist:item=1624882687#notes:#Solar #Weapon 
