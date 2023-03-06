@@ -54,9 +54,6 @@ dimwishlist:item=676270382&perks=2621346526
 # Solar
 	// Beloved [Crafted]
 dimwishlist:item=3107853529&perks=1482024992,3230963543,1354429876,4293542123
-	// IKELOS_SR_V1.0.3 [Crafted]
-dimwishlist:item=2302346155&perks=202670084,1140096971,3643424744,4293542123
-
 
 # Void
 	// Fugue-55
@@ -70,6 +67,8 @@ dimwishlist:item=2233545123&perks=1840239774,3300816228,1771339417
 //notes:PvP
 	// Defiance of Yasmin [Crafted]
 dimwishlist:item=3228096719&perks=1840239774,3142289711,957782887,47981717
+	// IKELOS_SR_V1.0.3 [Crafted]
+dimwishlist:item=2302346155&perks=202670084,1140096971,588594999,2213355989
 	// Father's Sins [Crafted]
 dimwishlist:item=3865728990&perks=202670084,3142289711,1645158859,47981717
 	// IRUKANDJI
