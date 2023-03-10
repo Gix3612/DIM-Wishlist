@@ -26,6 +26,8 @@ dimwishlist:item=3400256755&perks=3666208348,1749209109,3650930298
 dimwishlist:item=3400256755&perks=1749209109,3650930298
 
 # Arc
+	// GOLDTUSK [Crafted][Exotic][Hunter]
+dimwishlist:item=3371413057&perks=938542991,269888150,354401740,4049631843
 	// Half-Truths [Crafted]
 dimwishlist:item=3257091166&perks=1261178282,269888150,3705817207,2396489472
 	// BEQUEST [Crafted]
@@ -35,6 +37,8 @@ dimwishlist:item=3366545721&perks=1261178282,269888150,2726471870,3523296417
 dimwishlist:item=35794111&perks=3666208348,3625355092,1749209109,1546637391
 
 # Solar
+	// THRONE-CLEAVER [Crafted][Exotic][Titan]
+dimwishlist:item=3371413059&perks=3666208348,2349202967,2244851822,4274614370
 	// CARETAKER [Crafted]
 dimwishlist:item=2508948099&perks=1261178282,269888150,2590710093,4293542123
 	// Sola's Scar
@@ -49,7 +53,12 @@ dimwishlist:item=1313528549&perks=2396489472
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3913600130
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109
 
+
 # Void
+	// DEATH'S RAZOR [Crafted][Exotic][Warlock]
+dimwishlist:item=3371413056&perks=1261178282,2363751990,2590710093,2048641572
+	// The Other Half [Crafted]
+dimwishlist:item=3257091167&perks=3666208348,3625355092,2077819806,4104185692
 	// Razor's Edge
 dimwishlist:item=1796949035&perks=436053704,3625355092,2590710093,2396489472
 	// Quickfang [Hunter]
@@ -62,8 +71,6 @@ dimwishlist:item=2782325300&perks=269888150,2590710093
 dimwishlist:item=2782325300&perks=3666208348,269888150
 	// Crown-Splitter [Titan]
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
-	// The Other Half [Crafted]
-dimwishlist:item=3257091167&perks=3666208348,3625355092,2077819806,4104185692
 
 //notes:PvP
 	// Half-Truths [Crafted]
