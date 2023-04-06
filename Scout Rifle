@@ -46,7 +46,7 @@ dimwishlist:item=4019668921&perks=1482024992,1168162263,4293542123
 # Void
 	// Pointed Inquiry [Crafted]
 dimwishlist:item=297296830&perks=1840239774,3230963543,1583705720,3523296417
-dimwishlist:item=297296830&perks=1840239774,3230963543,1583705720,1048183818
+dimwishlist:item=297296830&perks=3661387068,1885400500,3700496672,2848615171
 	// Doom of Chelchis [Crafted]
 dimwishlist:item=1937552980&perks=1840239774,3230963543,1048183818,4049631843
 
@@ -96,8 +96,6 @@ dimwishlist:item=996109059&perks=3891536761
 //notes:Double Row Crafting
 	// Tarnished Mettle [Crafted]
 dimwishlist:item=2218569744&perks=3661387068,3142289711,588594999,3038247973
-	// Pointed Inquiry [Crafted]
-dimwishlist:item=297296830&perks=3661387068,1885400500,3700496672,2848615171
 	// Doom of Chelchis [Crafted]
 dimwishlist:item=1937552980&perks=202670084,3177308360,3824105627,2848615171
 	// Tears of Contrition [Crafted]
