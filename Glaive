@@ -6,18 +6,20 @@ title:Gix's Glaive Wishlist
 # Stasis
 
 # Arc
-	// Nezarec's Whisper [Crafted]
-dimwishlist:item=254636484&perks=2713678205,679225683,951095735,1048183818
 	// Edge of Concurrence [Crafted][Exotic][Hunter]
 dimwishlist:item=542203595&perks=594346985,679225683,844190854,1067908860
+	// Nezarec's Whisper [Crafted]
+dimwishlist:item=254636484&perks=580685494,679225683,951095735,3007133316 // Prolonged engagement
+dimwishlist:item=254636484&perks=1263609309,2420895100,3523296417,11612903 // Full grenade
 
 # Solar
-	// Lubrae's Ruin [Crafted]
-dimwishlist:item=2534546147&perks=580685494,679225683,2450788523,2224838837
-	// JUDGMENT OF KELGORATH [Crafted]
-dimwishlist:item=2978226043&perks=594346985,1087426260,3523296417,4293542123
 	// Edge of Intent [Crafted][Exotic][Warlock]
 dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860#notes:[Noble Seeker]
+	// Lubrae's Ruin [Crafted]
+dimwishlist:item=2534546147&perks=580685494,679225683,2450788523,2224838837 // Hit and run
+dimwishlist:item=2534546147&perks=1934171651,2420895100,1631667848,4082225868 // Full melee
+	// JUDGMENT OF KELGORATH [Crafted]
+dimwishlist:item=2978226043&perks=594346985,1087426260,3523296417,4293542123 // Incandescent
 
 # Void
 	// Edge of Action [Crafted][Exotic][Titan]
@@ -25,18 +27,11 @@ dimwishlist:item=2535142413&perks=594346985,679225683,2379536009,1067908860
 	// VEXCALIBUR [Crafted][Exotic]
 dimwishlist:item=3118061005&perks=580685494,679225683,2171805903,1067908860,3146691103
 	// The Enigma [Crafted]
-dimwishlist:item=2595497736&perks=580685494,679225683,4071163871,4104185692
+dimwishlist:item=2595497736&perks=580685494,679225683,4071163871,4104185692 // Battle trance
+dimwishlist:item=2595497736&perks=1934171651,3142289711,1820235745,2224838837 // Turret mode
 	// ECLIPTIC DISTAFF [Playlist]
 dimwishlist:item=3001205424&perks=1263609309,1431678320,3800201097,2048641572,1966281507,1782407750
 
 //notes:PvP
 	// JUDGMENT OF KELGORATH [Crafted]
 dimwishlist:item=2978226043&perks=1263609309,3142289711,3643424744,951095735
-
-//notes:Double Row Crafting
-	// Nezarec's Whisper [Crafted]
-dimwishlist:item=254636484&perks=1263609309,2420895100,3523296417,4104185692
-	// Lubrae's Ruin [Crafted]
-dimwishlist:item=2534546147&perks=594346985,1431678320,3800201097,1546637391
-	// The Enigma [Crafted]
-dimwishlist:item=2595497736&perks=1263609309,2420895100,951095735,2726471870
