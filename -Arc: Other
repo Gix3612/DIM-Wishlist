@@ -1,18 +1,32 @@
 		# Auto Rifle
 		# Combat Bow
+dimwishlist:item=3849444474&perks=852209214,3429800428,201365942,2652708987 // TRIPWIRE CANARY [Crafted]
 		# Hand Cannon
 		# Pulse Rifle
 		# Scout Rifle
+dimwishlist:item=8293111&perks=3661387068,106909392,247725512,3201496230 // LONG ARM
+dimwishlist:item=8293111&perks=106909392,247725512,3201496230
+dimwishlist:item=8293111&perks=3661387068,247725512,3201496230
+dimwishlist:item=8293111&perks=3661387068,106909392,3201496230
+dimwishlist:item=8293111&perks=3661387068,106909392,247725512
+dimwishlist:item=8293111&perks=247725512,3201496230
+dimwishlist:item=8293111&perks=106909392,3201496230
+dimwishlist:item=8293111&perks=106909392,247725512
+dimwishlist:item=8293111&perks=3661387068,3201496230
 		# Sidearm
 		# Submachine Gun
 		# Fusion Rifle
 		# Glaive
+dimwishlist:item=254636484&perks=2713678205,679225683,951095735,4104185692#notes:Prolonged engagement // Nezarec's Whisper [Crafted]
+dimwishlist:item=254636484&perks=1263609309,2420895100,3523296417,11612903#notes:Full grenade
 		# Shotgun
 		# Sniper Rifle
 		# Special Grenade Launcher
 		# Trace Rifle
 		# Heavy Grenade Launcher
+dimwishlist:item=2721157927&perks=3525010810,2985827016,2284787283,2396489472 // Tarnation [Crafted]
 		# Linear Fusion Rifle
 		# Machine Gun
+dimwishlist:item=820890091&perks=1482024992,3177308360,1631667848,691659142 // Planck's Stride [Crafted]
 		# Rocket Launcher
 		# Sword
