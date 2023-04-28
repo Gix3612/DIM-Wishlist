@@ -1,37 +1,54 @@
-// hash: 
+// hash: 2173046394
 
-# Auto Rifle
-
-# Combat Bow
-
-# Hand Cannon
-
-# Pulse Rifle
-
-# Scout Rifle
-
-# Sidearm
-
-# Submachine Gun
-
-# Fusion Rifle
-
-# Glaive
-
-# Shotgun
-
-# Sniper Rifle
-
-# Special Grenade Launcher
-
-# Trace Rifle
-
-# Heavy Grenade Launcher
-
-# Linear Fusion Rifle
-
-# Machine Gun
-
-# Rocket Launcher
-
-# Sword
+		# Auto Rifle
+dimwishlist:item=1144014195&perks=839105230,3230963543,1359896290,2173046394 // DARK DECIDER
+dimwishlist:item=1144014195&perks=3230963543,1359896290,2173046394
+dimwishlist:item=1144014195&perks=839105230,1359896290,2173046394
+dimwishlist:item=1144014195&perks=839105230,3230963543,2173046394
+dimwishlist:item=1144014195&perks=1359896290,2173046394
+		# Combat Bow
+		# Hand Cannon
+dimwishlist:item=3281285075&perks=202670084,3230963543,2173046394,3201496230 // POSTERITY [Crafted]
+		# Pulse Rifle
+dimwishlist:item=3635821806&perks=1482024992,3230963543,671806388,2173046394 // PHYLLOTACTIC SPIRAL [Crafted]
+		# Scout Rifle
+dimwishlist:item=2218569744&perks=1482024992,3230963543,247725512,2173046394 // Tarnished Mettle [Crafted]
+		# Sidearm
+dimwishlist:item=1298815317&perks=202670084,3230963543,4071163871,2173046394 // Brigand's Law [Crafted]
+		# Submachine Gun
+dimwishlist:item=2149683300&perks=1482024992,1140096971,4071163871,2173046394 // IKELOS_SMG_V1.0.3 [Crafted]
+		# Fusion Rifle
+dimwishlist:item=1289796511&perks=1482024992,689005463,671806388,2173046394 // ITERATIVE LOOP [Crafted]
+		# Glaive
+		# Shotgun
+dimwishlist:item=411397829&perks=202670084,3230963543,4071163871,2173046394 // GUNNORA'S AXE
+dimwishlist:item=411397829&perks=3230963543,4071163871,2173046394
+dimwishlist:item=411397829&perks=202670084,4071163871,2173046394
+dimwishlist:item=411397829&perks=202670084,3230963543,2173046394
+dimwishlist:item=411397829&perks=4071163871,2173046394
+dimwishlist:item=411397829&perks=202670084,2173046394
+dimwishlist:item=411397829&perks=3230963543,2173046394
+dimwishlist:item=411397829&perks=2173046394
+		# Sniper Rifle
+dimwishlist:item=1280894514&perks=1840239774,3230963543,957782887,2173046394 // Mechabre
+dimwishlist:item=1280894514&perks=3230963543,957782887,2173046394
+dimwishlist:item=1280894514&perks=1840239774,3230963543,2173046394
+dimwishlist:item=1280894514&perks=3230963543,2173046394
+		# Special Grenade Launcher
+dimwishlist:item=268260373&perks=3525010810,2822142346,4071163871,2173046394 // PRODIGAL RETURN [Crafted]
+		# Trace Rifle
+dimwishlist:item=2827764482&perks=1482024992,732557052,1583705720,2173046394 // PATH OF LEAST RESISTANCE [Crafted]
+		# Heavy Grenade Launcher
+		# Linear Fusion Rifle
+dimwishlist:item=1184309824&perks=1840239774,689005463,671806388,2173046394 // Sailspy Pitchglass [Crafted]
+		# Machine Gun
+dimwishlist:item=487205709&perks=1840239774,3230963543,671806388,2173046394 // TERMINUS HORIZON
+dimwishlist:item=487205709&perks=3230963543,671806388,2173046394
+dimwishlist:item=487205709&perks=1840239774,671806388,2173046394
+dimwishlist:item=487205709&perks=1840239774,3230963543,2173046394
+dimwishlist:item=487205709&perks=671806388,2173046394
+dimwishlist:item=487205709&perks=1840239774,2173046394
+dimwishlist:item=487205709&perks=3230963543,2173046394
+dimwishlist:item=487205709&perks=2173046394
+		# Rocket Launcher
+		# Sword
