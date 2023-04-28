@@ -1,11 +1,8 @@
 // hash: 1774574192
-
-# Auto Rifle
+		# Auto Rifle
 dimwishlist:item=2778013407&perks=1482024992,3230963543,4071163871,1774574192 // Firefright [Crafted]
-
-# Combat Bow
-
-# Hand Cannon
+		# Combat Bow
+		# Hand Cannon
 dimwishlist:item=310708513&perks=1482024992,679225683,247725512,1774574192 // Survivor's Epitaph
 dimwishlist:item=310708513&perks=679225683,247725512,1774574192
 dimwishlist:item=310708513&perks=1482024992,247725512,1774574192
@@ -36,8 +33,7 @@ dimwishlist:item=2171478765&perks=1774574192,11612903
 dimwishlist:item=2171478765&perks=3230963543,11612903
 dimwishlist:item=2171478765&perks=4090651448,11612903
 dimwishlist:item=2171478765&perks=1774574192
-
-# Pulse Rifle
+		# Pulse Rifle
 dimwishlist:item=3409645497&perks=1482024992,3230963543,2779035018,1774574192 // Legal Action II
 dimwishlist:item=3409645497&perks=1482024992,3230963543,1774574192
 dimwishlist:item=2099894368&perks=1482024992,3142289711,3619207468,1774574192 // BATTLE SCAR
@@ -47,8 +43,7 @@ dimwishlist:item=2099894368&perks=1482024992,3142289711,1774574192
 dimwishlist:item=2099894368&perks=3619207468,1774574192
 dimwishlist:item=2099894368&perks=1482024992,1774574192
 dimwishlist:item=2099894368&perks=3142289711,1774574192
-
-# Scout Rifle
+		# Scout Rifle
 dimwishlist:item=1107446438&perks=1482024992,3230963543,247725512,1774574192 // Servant Leader
 dimwishlist:item=1107446438&perks=1482024992,3230963543,1774574192
 dimwishlist:item=1641430382&perks=2405638015,3230963543,247725512,1774574192 // The Guiding Sight
@@ -58,15 +53,13 @@ dimwishlist:item=1641430382&perks=247725512,1774574192
 dimwishlist:item=1641430382&perks=3230963543,1774574192
 dimwishlist:item=1641430382&perks=2405638015,1774574192
 dimwishlist:item=1641430382&perks=1774574192
-
-# Sidearm
+		# Sidearm
 dimwishlist:item=1916287826&perks=1482024992,3230963543,1583705720,1774574192 // Boudica-C
 dimwishlist:item=1916287826&perks=3230963543,1583705720,1774574192
 dimwishlist:item=1916287826&perks=1482024992,1583705720,1774574192
 dimwishlist:item=1916287826&perks=1583705720,1774574192
 dimwishlist:item=1916287826&perks=3230963543,1774574192
-
-# Submachine Gun
+		# Submachine Gun
 dimwishlist:item=1786797708&perks=663495154,3230963543,4071163871,1774574192 // Escape Velocity
 dimwishlist:item=1786797708&perks=3230963543,4071163871,1774574192
 dimwishlist:item=1786797708&perks=663495154,4071163871,1774574192
@@ -78,35 +71,24 @@ dimwishlist:item=4100775158&perks=1482024992,1428297954,1774574192
 dimwishlist:item=4100775158&perks=1482024992,679225683,1774574192
 dimwishlist:item=4100775158&perks=1428297954,1774574192
 dimwishlist:item=4100775158&perks=1482024992,1774574192
-
-# Fusion Rifle
-
-# Glaive
-
-# Shotgun
+		# Fusion Rifle
+		# Glaive
+		# Shotgun
 dimwishlist:item=2821430069&perks=1467527085,791862061,3523296417,1774574192 // Fortissimo-11
 dimwishlist:item=2821430069&perks=1467527085,3523296417,1774574192
 dimwishlist:item=2821430069&perks=1467527085,791862061,1774574192
 dimwishlist:item=2821430069&perks=1467527085,1774574192
-
-# Sniper Rifle
+		# Sniper Rifle
 dimwishlist:item=3228096719&perks=1840239774,106909392,1774574192,3523296417 // Defiance of Yasmin [Crafted]
 dimwishlist:item=2990047042&perks=1840239774,106909392,3523296417,1774574192 // SUCCESSION [Crafted]
-
-# Special Grenade Launcher
-
-# Trace Rifle
-
-# Heavy Grenade Launcher
-
-# Linear Fusion Rifle
-
-# Machine Gun
+		# Special Grenade Launcher
+		# Trace Rifle
+		# Heavy Grenade Launcher
+		# Linear Fusion Rifle
+		# Machine Gun
 dimwishlist:item=3105930175&perks=839105230,1561002382,2997472817,1048183818,11612903,3523296417 // Chain of Command [Playlist]
-
-# Rocket Launcher
-
-# Sword
+		# Rocket Launcher
+		# Sword
 dimwishlist:item=396910433&perks=1261178282,269888150,1774574192,2396489472 // ZEPHYR
 dimwishlist:item=396910433&perks=269888150,1774574192,2396489472
 dimwishlist:item=396910433&perks=1261178282,1774574192,2396489472
