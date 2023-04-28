@@ -1,14 +1,6 @@
 title:Gix's Scout Rifle Wishlist
 // hash: 8
 
-//notes:PvP
-	// JARARACA-3SR
-dimwishlist:item=1851521408&perks=1840239774,1561002382,1428297954,1365187766
-dimwishlist:item=1851521408&perks=1561002382,1428297954,1365187766
-dimwishlist:item=1851521408&perks=1840239774,1428297954,1365187766
-dimwishlist:item=1851521408&perks=1840239774,1561002382,1365187766
-dimwishlist:item=1851521408&perks=1428297954,1365187766
-
 //notes:Double Row Crafting
 	// Tears of Contrition [Crafted]
 dimwishlist:item=1366394399&perks=839105230,2420895100,3300816228,1546637391
