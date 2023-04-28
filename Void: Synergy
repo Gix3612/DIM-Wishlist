@@ -1,7 +1,8 @@
-title:Void: Demolitionist, Destabilizing Rounds, Golden Tricorn
+title:Void: Synergy
 // Destabilizing Rounds hash: 2048641572
 // Demolitionist hash: 3523296417
 // Golden Tricorn hash: 2610012052
+// Wellspring: 3592538738
 		# Auto Rifle
 dimwishlist:item=3385326721&perks=1482024992,679225683,1168162263,3523296417 // Reckless Oracle
 dimwishlist:item=3385326721&perks=679225683,1168162263,3523296417
@@ -88,6 +89,7 @@ dimwishlist:item=2306182339&perks=2822142346,3523296417
 dimwishlist:item=2306182339&perks=4104185692
 dimwishlist:item=2306182339&perks=3523296417
 		# Trace Rifle
+dimwishlist:item=2323544076&perks=1482024992,732557052,3436462433,3592538738 // HOLLOW DENIAL [Crafted]
 		# Heavy Grenade Launcher
 dimwishlist:item=268260372&perks=3525010810,332133599,968510818,2048641572 // REGNANT [Crafted]
 		# Linear Fusion Rifle
