@@ -1,18 +1,24 @@
-// hash: 
+// hash: 831391274
 
 # Auto Rifle
+dimwishlist:item=392008588&perks=1482024992,3230963543,3619207468,831391274 // PERPETUALIS [Crafted]
+dimwishlist:item=484515708&perks=1482024992,679225683,1428297954,831391274 // RUFUS'S FURY [Crafted]
 
 # Combat Bow
 
 # Hand Cannon
+dimwishlist:item=2034215657&perks=1840239774,3230963543,1820235745,831391274 // ROUND ROBIN [Crafted]
 
 # Pulse Rifle
 
 # Scout Rifle
 
 # Sidearm
+dimwishlist:item=231031173&perks=1482024992,3230963543,1428297954,831391274 // MYKEL'S REVERENCE [Crafted]
 
 # Submachine Gun
+dimwishlist:item=811403305&perks=4090651448,3230963543,1645158859,831391274 // SYNCHRONIC ROULETTE
+dimwishlist:item=4039572196&perks=1482024992,3230963543,1195158366,831391274 // THE IMMORTAL
 
 # Fusion Rifle
 
@@ -21,16 +27,20 @@
 # Shotgun
 
 # Sniper Rifle
+dimwishlist:item=3920310144&perks=1840239774,3230963543,3619207468,831391274 // VOLTA BRACKET [Crafted]
 
 # Special Grenade Launcher
 
 # Trace Rifle
 
 # Heavy Grenade Launcher
+dimwishlist:item=2972949637&perks=1478423395,1380253176,2396489472,831391274 // KORAXIS'S DISTRESS [Crafted]
 
 # Linear Fusion Rifle
 
 # Machine Gun
+dimwishlist:item=2187717691&perks=1482024992,3230963543,2779035018,831391274 // CIRCULAR LOGIC
+dimwishlist:item=2187717691&perks=1482024992,2779035018,831391274
 
 # Rocket Launcher
 
