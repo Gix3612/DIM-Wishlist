@@ -1,11 +1,8 @@
 // hash: 3700496672
-
-# Auto Rifle
-
-# Combat Bow
+		# Auto Rifle
+		# Combat Bow
 dimwishlist:item=45643573&perks=2801223209,1500996326,3700496672,3365897133 // RACONTEUR [Crafted]
-
-# Hand Cannon
+		# Hand Cannon
 dimwishlist:item=1622998472&perks=1482024992,3230963543,3700496672,124408337 // Vulpecula
 dimwishlist:item=1622998472&perks=3230963543,3700496672,124408337
 dimwishlist:item=1622998472&perks=1482024992,3700496672,124408337
@@ -17,33 +14,18 @@ dimwishlist:item=1622998472&perks=1482024992,124408337
 dimwishlist:item=1622998472&perks=1482024992,3700496672
 dimwishlist:item=1622998472&perks=124408337
 dimwishlist:item=1622998472&perks=3700496672
-
-# Pulse Rifle
-
-# Scout Rifle
-
-# Sidearm
-
-# Submachine Gun
-
-# Fusion Rifle
-
-# Glaive
-
-# Shotgun
-
-# Sniper Rifle
-
-# Special Grenade Launcher
-
-# Trace Rifle
-
-# Heavy Grenade Launcher
-
-# Linear Fusion Rifle
-
-# Machine Gun
-
-# Rocket Launcher
-
-# Sword
+		# Pulse Rifle
+		# Scout Rifle
+		# Sidearm
+		# Submachine Gun
+		# Fusion Rifle
+		# Glaive
+		# Shotgun
+		# Sniper Rifle
+		# Special Grenade Launcher
+		# Trace Rifle
+		# Heavy Grenade Launcher
+		# Linear Fusion Rifle
+		# Machine Gun
+		# Rocket Launcher
+		# Sword
