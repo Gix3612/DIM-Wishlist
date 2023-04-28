@@ -32,23 +32,20 @@ dimwishlist:item=-69420&perks=3891536761
 // dimwishlist:item=-69420&perks=3700496672,3038247973
 // dimwishlist:item=-69420&perks=3700496672,3365897133
 
-// Auto Rifle: 5
-// Combat Bow: 3317538576
-// Hand Cannon: 6
-// Pulse Rifle: 7
-// Scout Rifle: 8
-// Sidearm: 14
-// Submachine Gun: 3954685534
-// Fusion Rifle: 9
-// Glaive: 3871742104
-// Shotgun: 11
-// Sniper Rifle: 10
-// Trace Rifle: 2489664120
-// Linear Fusion Rifle: 1504945536
-// Machine Gun: 12
-// Rocket Launcher: 13
-// Grenade Launcher: 153950757
-// Sword: 54
-
-//notes:Experimental PvP
-dimwishlist:item=-69420&perks=1365187766// Gutshot Straight
+dimwishlist:item=5&perks= // Auto Rifle
+dimwishlist:item=3317538576&perks= // Combat Bow
+dimwishlist:item=6&perks= // Hand Cannon
+dimwishlist:item=7&perks= // Pulse Rifle
+dimwishlist:item=8&perks= // Scout Rifle
+dimwishlist:item=14&perks= // Sidearm
+dimwishlist:item=3954685534&perks= // Submachine Gun
+dimwishlist:item=9&perks= // Fusion Rifle
+dimwishlist:item=3871742104&perks= // Glaive
+dimwishlist:item=11&perks= // Shotgun
+dimwishlist:item=10&perks= // Sniper Rifle
+dimwishlist:item=2489664120&perks= // Trace Rifle
+dimwishlist:item=1504945536&perks= // Linear Fusion Rifle
+dimwishlist:item=12&perks= // Machine Gun
+dimwishlist:item=13&perks= // Rocket Launcher
+dimwishlist:item=153950757&perks= // Grenade Launcher
+dimwishlist:item=54&perks= // Sword
