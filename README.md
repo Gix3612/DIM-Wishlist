@@ -1,8 +1,6 @@
 https://raw.githubusercontent.com/Gix3612/DIM-Wishlist/main/Arc%3A%20Other
 |https://raw.githubusercontent.com/Gix3612/DIM-Wishlist/main/Arc%3A%20Synergy
-|https://raw.githubusercontent.com/Gix3612/DIM-Wishlist/main/Exotic%20Search%20Tags
 |https://raw.githubusercontent.com/Gix3612/DIM-Wishlist/main/Exotics
-|https://raw.githubusercontent.com/Gix3612/DIM-Wishlist/main/General%20Perks
 |https://raw.githubusercontent.com/Gix3612/DIM-Wishlist/main/Kinetic%3A%20Other
 |https://raw.githubusercontent.com/Gix3612/DIM-Wishlist/main/Kinetic%3A%20Synergy
 |https://raw.githubusercontent.com/Gix3612/DIM-Wishlist/main/PvP
