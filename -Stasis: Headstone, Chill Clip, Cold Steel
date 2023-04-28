@@ -23,6 +23,7 @@ dimwishlist:item=1856262127&perks=1840239774,3230963543,124408337
 dimwishlist:item=1856262127&perks=1840239774,124408337
 		# Pulse Rifle
 dimwishlist:item=2856514843&perks=1482024992,3230963543,1168162263,124408337 // Syncopation-53 [Crafted]
+// DISPARITY [Crafted]
 		# Scout Rifle
 dimwishlist:item=1019000888&perks=1840239774,3230963543,1583705720,124408337 // Perses-D
 dimwishlist:item=1019000888&perks=3230963543,1583705720,124408337
@@ -50,6 +51,7 @@ dimwishlist:item=5159537&perks=202670084,124408337
 dimwishlist:item=5159537&perks=679225683,124408337
 		# Submachine Gun
 dimwishlist:item=1526296434&perks=1840239774,3230963543,1195158366,124408337 // Forensic Nightmare [Crafted]
+// BLOOD FEUD [Crafted]
 		# Fusion Rifle
 dimwishlist:item=2715240478&perks=202670084,689005463,671806388,2978966579 // Riptide
 dimwishlist:item=2715240478&perks=689005463,671806388,2978966579
@@ -66,6 +68,7 @@ dimwishlist:item=963710795&perks=1523832109,2978966579
 dimwishlist:item=963710795&perks=1840239774,2978966579
 dimwishlist:item=963710795&perks=689005463,2978966579
 dimwishlist:item=963710795&perks=2978966579
+// DELIVERANCE [Crafted]
 		# Glaive
 		# Shotgun
 dimwishlist:item=2531963421&perks=1482024992,679225683,691659142,124408337 // No Reprieve [Crafted]
@@ -84,8 +87,10 @@ dimwishlist:item=1399243961&perks=1840239774,689005463,3300816228,124408337 // R
 dimwishlist:item=1399243961&perks=689005463,124408337
 		# Machine Gun
 dimwishlist:item=1572896086&perks=1840239774,3177308360,1820235745,124408337 // Recurrent Impact [Crafted]
+// QULLIM'S TERMINUS [Crafted]
 		# Rocket Launcher
 dimwishlist:item=1959650777&perks=3525010810,2985827016,3977735242,2978966579 // Bump in the Night [Crafted]
+// PALMYRA-B [Crafted]
 		# Sword
 dimwishlist:item=396910433&perks=436053704,269888150,1749209109,3650930298 // ZEPHYR
 dimwishlist:item=396910433&perks=269888150,1749209109,3650930298
