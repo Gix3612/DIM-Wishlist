@@ -2,27 +2,35 @@ title:Exotics
 		# Auto Rifle
 		# Combat Bow
 		# Hand Cannon
-dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,3326204863 // Hawkmoon [Exotic]
+	// Hawkmoon [Exotic]
+dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,3326204863 
 dimwishlist:item=3856705927&perks=1431678320,2846385770,3326204863
 dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770
 dimwishlist:item=3856705927&perks=1431678320,2846385770
 		# Pulse Rifle
-dimwishlist:item=1473821207&perks=1840239774,3230963543,1546637391,990298390,1266037486 // REVISION ZERO [Crafted][Exotic]
+	// REVISION ZERO [Crafted][Exotic]
+dimwishlist:item=1473821207&perks=1840239774,3230963543,1546637391,990298390,1266037486 
 		# Scout Rifle
-dimwishlist:item=3654674561&perks=1482024992,3177308360,588594999,1067908860 // Dead Man's Tale [Exotic]
+	// Dead Man's Tale [Exotic]
+dimwishlist:item=3654674561&perks=1482024992,3177308360,588594999,1067908860 
 dimwishlist:item=3654674561&perks=3177308360,588594999,1067908860
 dimwishlist:item=3654674561&perks=1482024992,1885400500,588594999,1067908860
 dimwishlist:item=3654674561&perks=1885400500,588594999,1067908860
 dimwishlist:item=3654674561&perks=1482024992,588594999,1067908860
 		# Sidearm
 		# Submachine Gun
-dimwishlist:item=46524085&perks=1840239774,3142289711,4015745376,1067908860 // Osteo Striga [Crafted][Exotic]
+	// Osteo Striga [Crafted][Exotic]
+dimwishlist:item=46524085&perks=1840239774,3142289711,4015745376,1067908860 
 		# Fusion Rifle
 		# Glaive
-dimwishlist:item=542203595&perks=594346985,679225683,844190854,1067908860 // Edge of Concurrence [Crafted][Exotic][Hunter]
-dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860 // Edge of Intent [Crafted][Exotic][Warlock]
-dimwishlist:item=2535142413&perks=594346985,679225683,2379536009,1067908860 // Edge of Action [Crafted][Exotic][Titan]
-dimwishlist:item=3118061005&perks=580685494,679225683,2171805903,1067908860,3146691103 // VEXCALIBUR [Crafted][Exotic]
+	// Edge of Concurrence [Crafted][Exotic][Hunter]
+dimwishlist:item=542203595&perks=594346985,679225683,844190854,1067908860 
+	// Edge of Intent [Crafted][Exotic][Warlock]
+dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860 
+	// Edge of Action [Crafted][Exotic][Titan]
+dimwishlist:item=2535142413&perks=594346985,679225683,2379536009,1067908860 
+	// VEXCALIBUR [Crafted][Exotic]
+dimwishlist:item=3118061005&perks=580685494,679225683,2171805903,1067908860,3146691103 
 		# Shotgun
 		# Sniper Rifle
 		# Special Grenade Launcher
