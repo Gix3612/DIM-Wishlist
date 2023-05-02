@@ -1,16 +1,19 @@
 title:Kinetic: Other
+//notes:Kinetic: Other
 		# Auto Rifle
 		# Combat Bow
 		# Hand Cannon
 		# Pulse Rifle
 		# Scout Rifle
 		# Sidearm
-dimwishlist:item=2607304614&perks=1482024992,3230963543,1428297954,3673922083 // Empirical Evidence [Crafted]
+	// Empirical Evidence [Crafted]
+dimwishlist:item=2607304614&perks=1482024992,3230963543,1428297954,3673922083 
 		# Submachine Gun
 		# Fusion Rifle
 		# Glaive
 		# Shotgun
-dimwishlist:item=4225322581&perks=466087222,791862061,1820235745,2679249093 // Ragnhild-D [Crafted]
+	// Ragnhild-D [Crafted]
+dimwishlist:item=4225322581&perks=466087222,791862061,1820235745,2679249093 
 		# Sniper Rifle
 		# Special Grenade Launcher
 		# Trace Rifle
