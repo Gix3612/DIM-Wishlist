@@ -1,4 +1,5 @@
 title:Stasis: Other
+//notes:Other
 		# Auto Rifle
 		# Combat Bow
 		# Hand Cannon
@@ -13,7 +14,8 @@ title:Stasis: Other
 		# Special Grenade Launcher
 		# Trace Rifle
 		# Heavy Grenade Launcher
-dimwishlist:item=1311684613&perks=1478423395,2822142346,968510818,2396489472 // DIMENSIONAL HYPOTROCHOID [Crafted]
+	// DIMENSIONAL HYPOTROCHOID [Crafted]
+dimwishlist:item=1311684613&perks=1478423395,2822142346,968510818,2396489472 
 		# Linear Fusion Rifle
 		# Machine Gun
 		# Rocket Launcher
