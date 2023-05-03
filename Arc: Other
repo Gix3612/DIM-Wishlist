@@ -22,18 +22,15 @@ dimwishlist:item=8293111&perks=3661387068,3201496230
 		# Fusion Rifle
 		# Glaive
 	// Nezarec's Whisper [Crafted]
-dimwishlist:item=254636484&perks=2713678205,679225683,951095735,4104185692#notes:Prolonged engagement
-dimwishlist:item=254636484&perks=1263609309,2420895100,3523296417,11612903#notes:Full grenade
-		# Shotgun
-	// Xenoclast IV
-dimwishlist:item=2891672170&perks=466087222,3142289711,1631667848,2360754333
-dimwishlist:item=2891672170&perks=3142289711,1631667848,2360754333
-		# Sniper Rifle
-		# Special Grenade Launcher
+dimwishlist:item=254636484&perks=2713678205,679225683,951095735,4104185692 // Prolonged engagement
+dimwishlist:item=254636484&perks=1263609309,2420895100,3523296417,11612903 // Full grenade
+		# Grenade Launcher, Special
 	// Forbearance [Crafted]
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
+		# Shotgun
+		# Sniper Rifle
 		# Trace Rifle
-		# Heavy Grenade Launcher
+		# Grenade Launcher, Heavy
 	// Tarnation [Crafted]
 dimwishlist:item=2721157927&perks=3525010810,2985827016,2284787283,2396489472
 		# Linear Fusion Rifle
