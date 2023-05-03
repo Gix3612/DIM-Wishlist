@@ -6,11 +6,11 @@ title:Kinetic: Synergy
 		# Hand Cannon
 		# Pulse Rifle
 	// BATTLE SCAR
-dimwishlist:item=2099894368&perks=1482024992,3142289711,3700496672,3891536761
-dimwishlist:item=2099894368&perks=3142289711,3700496672,3891536761
-dimwishlist:item=2099894368&perks=1482024992,3700496672,3891536761
+dimwishlist:item=2099894368&perks=1482024992,3142289711,3700496672,3891536761 // Kinetic Tremors + Shoot to Loot
+dimwishlist:item=2099894368&perks=3142289711,3700496672,3891536761 // Kinetic Tremors + Shoot to Loot
+dimwishlist:item=2099894368&perks=1482024992,3700496672,3891536761 // Kinetic Tremors + Shoot to Loot
 dimwishlist:item=2099894368&perks=1482024992,3142289711,3891536761
-dimwishlist:item=2099894368&perks=3700496672,3891536761
+dimwishlist:item=2099894368&perks=3700496672,3891536761 // Kinetic Tremors + Shoot to Loot
 dimwishlist:item=2099894368&perks=3142289711,3891536761
 dimwishlist:item=2099894368&perks=1482024992,3891536761
 dimwishlist:item=2099894368&perks=3891536761
@@ -46,11 +46,11 @@ dimwishlist:item=213264394&perks=3891536761
 		# Submachine Gun
 		# Fusion Rifle
 		# Glaive
+		# Grenade Launcher, Special
 		# Shotgun
 		# Sniper Rifle
-		# Special Grenade Launcher
 		# Trace Rifle
-		# Heavy Grenade Launcher
+		# Grenade Launcher, Heavy
 		# Linear Fusion Rifle
 		# Machine Gun
 		# Rocket Launcher
