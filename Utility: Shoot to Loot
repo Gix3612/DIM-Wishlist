@@ -45,7 +45,7 @@ dimwishlist:item=2888266564&perks=1482024992,3700496672
 dimwishlist:item=2888266564&perks=3230963543,3700496672
 dimwishlist:item=2888266564&perks=3700496672
 		# Pulse Rifle
-	// BATTLE SCAR
+	// BATTLE SCAR (see Kinetic: Synergy)
 dimwishlist:item=2099894368&perks=1482024992,3142289711,3700496672
 dimwishlist:item=2099894368&perks=3142289711,3700496672
 dimwishlist:item=2099894368&perks=1482024992,3700496672
@@ -93,9 +93,9 @@ dimwishlist:item=2827764482&perks=1840239774,732557052,3700496672,2848615171
 	// IKELOS_SMG_V1.0.3 [Crafted]
 		# Fusion Rifle
 		# Glaive
+		# Grenade Launcher, Special
 		# Shotgun
-		# Special Grenade Launcher
-		# Heavy Grenade Launcher
+		# Grenade Launcher, Heavy
 		# Linear Fusion Rifle
 		# Rocket Launcher
 		# Sword
