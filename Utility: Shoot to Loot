@@ -36,11 +36,11 @@ dimwishlist:item=3472875143&perks=3700496672
 		# Hand Cannon
 	// PURE POETRY (see Osmosis)
 	// Crisis Inverted
-dimwishlist:item=2888266564&perks=1482024992,3230963543,3700496672,1048183818
-dimwishlist:item=2888266564&perks=3230963543,3700496672,1048183818
-dimwishlist:item=2888266564&perks=1482024992,3700496672,1048183818
+dimwishlist:item=2888266564&perks=1482024992,3230963543,3700496672,1048183818 // Adaptive Munitions + Shoot to Loot
+dimwishlist:item=2888266564&perks=3230963543,3700496672,1048183818 // Adaptive Munitions + Shoot to Loot
+dimwishlist:item=2888266564&perks=1482024992,3700496672,1048183818 // Adaptive Munitions + Shoot to Loot
 dimwishlist:item=2888266564&perks=1482024992,3230963543,3700496672
-dimwishlist:item=2888266564&perks=3700496672,1048183818
+dimwishlist:item=2888266564&perks=3700496672,1048183818 // Adaptive Munitions + Shoot to Loot
 dimwishlist:item=2888266564&perks=1482024992,3700496672
 dimwishlist:item=2888266564&perks=3230963543,3700496672
 dimwishlist:item=2888266564&perks=3700496672
