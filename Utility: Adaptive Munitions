@@ -40,11 +40,7 @@ dimwishlist:item=4019668921&perks=1482024992,3230963543,1048183818
 		# Submachine Gun
 		# Fusion Rifle
 	// PLUG ONE.1
-		# Glaive
-	// NEZAREC'S WHISPER [Crafted]
 		# Shotgun
-		# Sniper Rifle
-		# Special Grenade Launcher
 		# Trace Rifle
 	// PATH OF LEAST RESISTANCE [Crafted]
 //dimwishlist:item=2827764482&perks=1482024992,732557052,1048183818,4049631843
@@ -52,10 +48,6 @@ dimwishlist:item=4019668921&perks=1482024992,3230963543,1048183818
 //dimwishlist:item=548958835&perks=1840239774,732557052,1048183818,4104185692
 	// Hollow Denial [Crafted]
 //dimwishlist:item=2323544076&perks=1840239774,2969185026,1048183818,3592538738
-		# Heavy Grenade Launcher
-		# Linear Fusion Rifle
-	// CATACLYSMIC [Crafted]
-	// STORMCHASER
 		# Machine Gun
 	// CHAIN OF COMMAND [Playlist] (see osmosis)
 	// UNWAVERING DUTY
@@ -68,5 +60,15 @@ dimwishlist:item=906840740&perks=1840239774,1048183818
 dimwishlist:item=906840740&perks=2420895100,1048183818
 dimwishlist:item=906840740&perks=1048183818
 	// COMMEMORATION [Crafted]
-		# Rocket Launcher
 		# Sword
+
+# Ignore on guns with small reserves
+		# Glaive
+	// NEZAREC'S WHISPER [Crafted]
+		# Sniper Rifle
+		# Special Grenade Launcher
+		# Heavy Grenade Launcher
+		# Linear Fusion Rifle
+	// CATACLYSMIC [Crafted]
+	// STORMCHASER
+		# Rocket Launcher
