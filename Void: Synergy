@@ -4,6 +4,7 @@ title:Void: Synergy
 # Demolitionist hash: 3523296417
 # Golden Tricorn hash: 2610012052
 # Wellspring: 3592538738
+# Repulsor Brace: 776531651
 		# Auto Rifle
 	// Reckless Oracle
 dimwishlist:item=3385326721&perks=1482024992,679225683,1168162263,3523296417
@@ -27,6 +28,7 @@ dimwishlist:item=1731355324&perks=1482024992,1140096971,1583705720,2610012052
 	// VELES-X [Playlist]
 dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,2610012052,2946784966,1015611457
 		# Scout Rifle
+	// DOOM OF CHELCHIS [Crafted]
 	// Pointed Inquiry [Crafted]
 dimwishlist:item=297296830&perks=1840239774,3230963543,1583705720,3523296417
 		# Sidearm
@@ -64,6 +66,7 @@ dimwishlist:item=3000847393&perks=1482024992,3523296417,2610012052
 dimwishlist:item=3000847393&perks=3523296417,2610012052
 dimwishlist:item=3000847393&perks=3230963543,3523296417
 		# Fusion Rifle
+	// THE EPICUREAN [Crafted]
 	// Likely Suspect [Crafted]
 dimwishlist:item=1994645182&perks=1482024992,689005463,2039302152,2610012052
 		# Glaive
@@ -116,7 +119,9 @@ dimwishlist:item=2323544076&perks=1482024992,732557052,3436462433,3592538738
 	// REGNANT [Crafted]
 dimwishlist:item=268260372&perks=3525010810,332133599,968510818,2048641572
 		# Linear Fusion Rifle
+	// TAIPAN-4FR [Crafted]
 		# Machine Gun
+	// COMMEMORATION [Crafted]
 	// RETROFIT ESCAPADE [Crafted]
 dimwishlist:item=3103325054&perks=1840239774,3177308360,1570042021,2610012052
 		# Rocket Launcher
