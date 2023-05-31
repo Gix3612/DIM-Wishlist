@@ -10,8 +10,8 @@ title:Void: Other
 		# Fusion Rifle
 		# Glaive
 	// The Enigma [Crafted]
-dimwishlist:item=2595497736&perks=580685494,679225683,4071163871,4104185692 Battle trance
-dimwishlist:item=2595497736&perks=1934171651,3142289711,1820235745,2224838837 Turret mode
+dimwishlist:item=2595497736&perks=580685494,679225683,4071163871,4104185692#notes:Battle trance
+dimwishlist:item=2595497736&perks=1934171651,3142289711,1820235745,2224838837#notes:Turret mode
 		# Shotgun
 		# Sniper Rifle
 		# Special Grenade Launcher
