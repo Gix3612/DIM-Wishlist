@@ -22,8 +22,8 @@ dimwishlist:item=8293111&perks=3661387068,3201496230
 		# Fusion Rifle
 		# Glaive
 	// Nezarec's Whisper [Crafted]
-dimwishlist:item=254636484&perks=2713678205,679225683,951095735,4104185692 // Prolonged engagement
-dimwishlist:item=254636484&perks=1263609309,2420895100,3523296417,11612903 // Full grenade
+dimwishlist:item=254636484&perks=2713678205,679225683,951095735,4104185692 			Prolonged engagement
+dimwishlist:item=254636484&perks=1263609309,2420895100,3523296417,11612903 			Full grenade
 		# Grenade Launcher, Special
 	// Forbearance [Crafted]
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
