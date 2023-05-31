@@ -12,8 +12,8 @@ dimwishlist:item=1476654960&perks=3230963543,3523296417,1774574192
 dimwishlist:item=1476654960&perks=1926090094,3523296417,1774574192
 dimwishlist:item=1476654960&perks=3523296417,1774574192
 	// Pure Poetry
-dimwishlist:item=2671639706&perks=1840239774,3230963543,3700496672,1774574192#notes:Osmosis + Shoot to Loot
-dimwishlist:item=2671639706&perks=3230963543,3700496672,1774574192#notes:Osmosis + Shoot to Loot
+dimwishlist:item=2671639706&perks=1840239774,3230963543,3700496672,1774574192 			Osmosis + Shoot to Loot
+dimwishlist:item=2671639706&perks=3230963543,3700496672,1774574192 				Osmosis + Shoot to Loot
 	// Fatebringer
 dimwishlist:item=2171478765&perks=4090651448,3230963543,1774574192,11612903
 dimwishlist:item=2171478765&perks=3230963543,1774574192,11612903
@@ -79,7 +79,7 @@ dimwishlist:item=3743729616&perks=1774574192
 		# Linear Fusion Rifle
 		# Machine Gun
 	// Chain of Command [Playlist]
-dimwishlist:item=3105930175&perks=839105230,1561002382,2997472817,1048183818,11612903,3523296417#notes:Adaptive Munitions + Osmosis
+dimwishlist:item=3105930175&perks=839105230,1561002382,2997472817,1048183818,11612903,3523296417 			Adaptive Munitions + Osmosis
 		# Rocket Launcher
 		# Sword
 	// ZEPHYR
