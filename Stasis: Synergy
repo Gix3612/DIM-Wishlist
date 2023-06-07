@@ -7,8 +7,6 @@ title:Stasis: Synergy
 	// Krait
 dimwishlist:item=2852052802&perks=1482024992,679225683,1583705720,124408337
 		# Combat Bow
-	// Lunulata-4b
-dimwishlist:item=2513965917&perks=3700496672,124408337
 	// RACONTEUR [Crafted]
 dimwishlist:item=45643573&perks=2801223209,16392701,201365942,124408337
 		# Hand Cannon
@@ -26,9 +24,9 @@ dimwishlist:item=1856262127&perks=1840239774,1583705720,124408337
 dimwishlist:item=1856262127&perks=1840239774,3230963543,124408337
 dimwishlist:item=1856262127&perks=1840239774,124408337
 		# Pulse Rifle
+	// DISPARITY [Crafted]
 	// Syncopation-53 [Crafted]
 dimwishlist:item=2856514843&perks=1482024992,3230963543,1168162263,124408337
-	// DISPARITY [Crafted]
 		# Scout Rifle
 	// Perses-D
 dimwishlist:item=1019000888&perks=1840239774,3230963543,1583705720,124408337
@@ -60,11 +58,11 @@ dimwishlist:item=5159537&perks=2779035018,124408337
 dimwishlist:item=5159537&perks=202670084,124408337
 dimwishlist:item=5159537&perks=679225683,124408337
 		# Submachine Gun
+	// BLOOD FEUD [Crafted]
 	// Forensic Nightmare [Crafted]
 dimwishlist:item=1526296434&perks=1840239774,3230963543,1195158366,124408337
-	// BLOOD FEUD [Crafted]
 		# Fusion Rifle
-	// Deliverance [Crafted]
+	// DELIVERANCE [Crafted]
 dimwishlist:item=768621510&perks=1840239774,689005463,671806388,2978966579
 	// Riptide
 dimwishlist:item=2715240478&perks=202670084,689005463,671806388,2978966579
@@ -77,7 +75,6 @@ dimwishlist:item=2715240478&perks=202670084,2978966579
 dimwishlist:item=963710795&perks=1840239774,689005463,1523832109,2978966579
 dimwishlist:item=963710795&perks=689005463,1523832109,2978966579
 dimwishlist:item=963710795&perks=1840239774,1523832109,2978966579
-	// DELIVERANCE [Crafted]
 		# Glaive
 		# Shotgun
 	// No Reprieve [Crafted]
@@ -101,9 +98,9 @@ dimwishlist:item=2272041093&perks=1482024992,689005463,124408337,2978966579
 dimwishlist:item=1399243961&perks=1840239774,689005463,3300816228,124408337
 dimwishlist:item=1399243961&perks=689005463,124408337
 		# Machine Gun
+	// QULLIM'S TERMINUS [Crafted]
 	// Recurrent Impact [Crafted]
 dimwishlist:item=1572896086&perks=1840239774,3177308360,1820235745,124408337
-	// QULLIM'S TERMINUS [Crafted]
 		# Rocket Launcher
 	// PALMYRA-B [Crafted]
 dimwishlist:item=3489657138&perks=3798852852,2985827016,2010801679,2978966579
