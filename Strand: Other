@@ -3,6 +3,8 @@ title:Strand: Other
 		# Auto Rifle
 		# Combat Bow
 		# Hand Cannon
+	// KEPT CONFIDENCE [Crafted]
+dimwishlist:item=1875512595&perks=4090651448,3230963543,1583705720,3324494224
 		# Pulse Rifle
 		# Scout Rifle
 		# Sidearm
@@ -19,4 +21,6 @@ dimwishlist:item=2883484461&perks=1300023272,3177308360,4071163871,2360754333
 		# Linear Fusion Rifle
 		# Machine Gun
 		# Rocket Launcher
+	// SEMIOTICIAN [Crafted]
+dimwishlist:item=2922749929&perks=1441682018,2985827016,951095735,1439600632
 		# Sword
