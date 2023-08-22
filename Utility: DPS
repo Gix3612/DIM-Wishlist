@@ -4,6 +4,15 @@ title:DPS
 	// RUFUS'S FURY [Crafted]
 dimwishlist:item=484515708&perks=1467527085,3230963543,3418782618,365154968
 		# Combat Bow
+	// PRE ASTYANAX IV
+dimwishlist:item=192784503&perks=2801223209,16392701,201365942,555281244
+dimwishlist:item=192784503&perks=16392701,201365942,555281244
+dimwishlist:item=192784503&perks=2801223209,201365942,555281244
+dimwishlist:item=192784503&perks=2801223209,16392701,555281244
+dimwishlist:item=192784503&perks=201365942,555281244
+dimwishlist:item=192784503&perks=2801223209,555281244
+dimwishlist:item=192784503&perks=16392701,555281244
+dimwishlist:item=192784503&perks=555281244
 		# Hand Cannon
 		# Pulse Rifle
 	// Piece of Mind [Crafted]
