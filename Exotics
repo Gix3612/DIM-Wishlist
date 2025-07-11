@@ -1,6 +1,10 @@
 title:Exotics
 		# Auto Rifle
+	// Choir of One [Crafted][Exotic]
+dimwishlist:item=3698448090&perks=1840239774,3230963543,619537267,3465198467,1931951168
 		# Combat Bow
+	// Wish-Keeper [Crafted][Exotic]
+dimwishlist:item=2910326942&perks=2801223209,16392701,2799667909,3326204863,372672211
 		# Hand Cannon
 	// Hawkmoon [Exotic]
 dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,3326204863 
@@ -20,7 +24,9 @@ dimwishlist:item=3654674561&perks=1840239774,1885400500,247725512,1067908860
 		# Sidearm
 		# Submachine Gun
 	// Osteo Striga [Crafted][Exotic]
-dimwishlist:item=46524085&perks=1840239774,3142289711,4015745376,1067908860 
+dimwishlist:item=46524085&perks=1840239774,3142289711,4015745376,1067908860
+	// Barrow-Dyad [Crafted][Exotic]
+dimwishlist:item=1481594633&perks=1840239774,3230963543,1524069046,3326204863,4204405032
 		# Fusion Rifle
 		# Glaive
 	// Edge of Concurrence [Crafted][Exotic][Hunter]
@@ -29,14 +35,16 @@ dimwishlist:item=542203595&perks=594346985,679225683,844190854,1067908860
 dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860 
 	// Edge of Action [Crafted][Exotic][Titan]
 dimwishlist:item=2535142413&perks=594346985,679225683,2379536009,1067908860 
-	// VEXCALIBUR [Crafted][Exotic]
+	// Vexcalibur [Crafted][Exotic]
 dimwishlist:item=3118061005&perks=580685494,679225683,2171805903,1067908860,3146691103 
 		# Shotgun
+	// Slayer's Fang [Crafted][Exotic]
+dimwishlist:item=1047932517&perks=839105230,3230963543,2607392828,1067908860,2883096195
 		# Sniper Rifle
 	// Whisper of the Worm [Crafted][Exotic]
 dimwishlist:item=1983149589&perks=1840239774,3177308360,777589556,990298390,3732232161
 		# Special Grenade Launcher
-	// DEAD MESSENGER [Crafted][Exotic]
+	// Dead Messenger [Crafted][Exotic]
 dimwishlist:item=46125926&perks=3525010810,2822142346,2620589274,1067908860,3523296417
 		# Trace Rifle
 		# Heavy Grenade Launcher
@@ -44,3 +52,5 @@ dimwishlist:item=46125926&perks=3525010810,2822142346,2620589274,1067908860,3523
 		# Machine Gun
 		# Rocket Launcher
 		# Sword
+	// Ergo Sum [Exotic]
+dimwishlist:item=1681583613&perks=1261178282,269888150,2753228730,2963428707
