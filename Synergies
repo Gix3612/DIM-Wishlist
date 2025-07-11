@@ -1,36 +1,44 @@
 # Ability Bonus
-Collective Action:		3324494224
-Wellspring:			3592538738
-Recycled Energy:		3713215006
-	# Weapon Bonus
-	Golden Tricorn:		2610012052
-	Desperate Measures:	2109543898
-	Well-rounded:		744594675
-	Paracausal Affinity:	3215448563
-	Elemental Honing:	1089671869
-	Loose Change:		1119449540
+	# Multi
+Collective Action		3324494224
+Wellspring			3592538738
+Recycled Energy			3713215006
+Origin: Noble deeds		1823011807
+Origin: To Excess		1905044254
+Origin: Bray Inheritance	766321425
+Origin: Indomitability		2489430594
+	# Orbs/Pickups
+Attritions Orbs			243981275
+Mod: Synergy			3820243349
+	# Melee
+Pugilist			691659142
+One-two Punch			2679249093
+	# Grenade
+Demolitionist			3523296417
+	# Class
+Strategist			880644845
+Origin: Classy Contender	1702976605
+	# Super
+Thresh				2726471870
+Origin: Dealer's Choice		1988485648
+Origin: Timelost Magazine	2589407652
 
-# Orbs Bonus
-Attritions Orbs:		243981275
-	# Weapon Bonus
-	Explosive Light:	3194351027
-
-# Melee Bonus
-Pugilist:			691659142
-One-two Punch:			2679249093
-	# Weapon Bonus
-	Swashbuckler:		4082225868
-	Grave Robber:		1631667848
-	Trench Barrel:		2360754333
-	Blunt Execution Rounds:	454085387
-
-# Grenade Bonus
-Demolitionist:			3523296417
-	# Weapon Bonus
-	Adrenaline Junkie:	11612903
-
-# Class Bonus
-Strategist:			880644845
-
-# Super Bonus
-Thresh:				2726471870
+# Weapon Bonus
+	# Multi
+Golden Tricorn			2610012052
+Desperate Measures		2109543898
+Well-rounded			744594675
+Paracausal Affinity		3215448563
+Elemental Honing		1089671869
+Loose Change			1119449540
+	# Orbs/Pickups
+Explosive Light			3194351027
+	# Melee
+Swashbuckler			4082225868
+Grave Robber			1631667848
+Trench Barrel			2360754333
+Blunt Execution Rounds		454085387
+Origin: Cursed Thrall		1156201379
+Origin: Cast No Shadows		2838996248
+	# Grenade
+Adrenaline Junkie		11612903
