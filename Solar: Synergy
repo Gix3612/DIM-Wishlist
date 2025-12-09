@@ -6,6 +6,8 @@ title:Solar: Synergy
 		# Auto Rifle
 	// Ammit AR2 [Crafted]
 dimwishlist:item=2119346509&perks=1482024992,3230963543,1583705720,4293542123
+	// No Hesitation [Crafted]
+dimwishlist:item=1801007332&perks=1482024992,106909392,2980589453,2298656195
 		# Combat Bow
 	// TYRANNY OF HEAVEN [Crafted]
 dimwishlist:item=3388655311&perks=852209214,3827198035,2652708987,4293542123
@@ -19,9 +21,13 @@ dimwishlist:item=431721920&perks=4090651448,3230963543,691659142,4293542123
 dimwishlist:item=2850664015&perks=1482024992,3142289711,1583705720,4293542123
 dimwishlist:item=2850664015&perks=4293542123
 		# Pulse Rifle
+	// Adhortative [Crafted]
+dimwishlist:item=2993554824&perks=1840239774,3230963543,1119449540,4293542123
 	// BxR-55 Battler [Crafted]
 dimwishlist:item=2708806099&perks=1482024992,3230963543,3523296417,4293542123
 		# Scout Rifle
+	// Vision of Confluence [Crafted]
+dimwishlist:item=3444688218&perks=4090651448,3230963543,3017780555,3824105627
 	// TRUSTEE [Crafted]
 dimwishlist:item=1392919471&perks=1482024992,3230963543,247725512,4293542123
 	// Staccato-46
@@ -86,6 +92,8 @@ dimwishlist:item=2231910050&perks=2985827016,3977735242,4293542123
 dimwishlist:item=2231910050&perks=3525010810,3977735242,4293542123
 dimwishlist:item=2231910050&perks=3977735242,4293542123
 		# Sword
+	// False Idols [Crafted]
+dimwishlist:item=4207120603&perks=1261178282,269888150,4293542123,2396489472
 	// CARETAKER [Crafted]
 dimwishlist:item=2508948099&perks=1261178282,269888150,2590710093,4293542123
 	// THRONE-CLEAVER [Crafted]
