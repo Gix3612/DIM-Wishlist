@@ -34,6 +34,10 @@ dimwishlist:item=821154603&perks=1890422124,3523296417
 dimwishlist:item=821154603&perks=3523296417
 		# Combat Bow
 		# Hand Cannon
+	// Word of Crota [Crafted]
+dimwishlist:item=120706239&perks=1840239774,3230963543,776531651,2048641572
+	// Ancient Gospel [Crafted]
+dimwishlist:item=963574173&perks=1840239774,3230963543,2048641572,4082225868
 	// TARGETED REDACTION [Crafted]
 dimwishlist:item=3890055324&perks=1840239774,3177308360,1168162263,2048641572
 	// IKELOS_HC_V1.0.3 [Crafted]
